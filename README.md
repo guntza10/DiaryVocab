@@ -33,3 +33,23 @@
 - madam = แม่เล้า, คุณนาย
 - thai boxing master move = แม่ไม้มวยไทย
 
+## `Day 2`
+- how are you doing? = สบายดีมั้ย?
+- how are you? = สบายดีมั้ย?
+- can't complain = ทุกอย่างเป็นไปได้ด้วยดี, ทุกอย่าง ok (คำตอบแบบชิวๆ)
+- complain = บ่น
+- I have been better,I've been better = ตอนนี้ไม่สบาย, ตอนนี้ไม่ ok, ตอนนี้แย่ว่ะ
+- I have never been better, I've never been better = ตอนนี้ดีสุดๆ, สบายดีสุดๆ
+- can't hurt = ไม่เสียหายอะไรนะ (ก็ลองดู)
+- no-brainer = ง่ายจะตาย, ง่ายมากๆ
+- lover = คนที่มี sex ด้วยแต่ยังไม่ได้แต่งงานกัน(หรือคบกัน)
+- quite a few, quite a bit = เยอะมาก, เยอะทีเดียวแหละ
+- hardly = ไม่ค่อย (`almost not`)
+    - I work hard => ชั้นทำงานหนัก
+    - I hardly work => ชั้นไม่ค่อยได้ทำงานเลย
+- lately = เมื่อเร็วๆนี้, หมู่นี้, เร็วๆนี้
+- fire in the hole = มีบางอย่างกำลังระเบิดและเสียงดังมาก ให้อุดหูเอาไว้ เป็นคำที่เอาไว้ร้องเตือนให้อุดหู
+- open relationship = เป็นความสัมพันธ์แบบเปิด ที่คน 2 คนเป็นแฟนกัน แต่อนุญาติให้ไปกิ้กกับคนอื่นได้
+- open to .... = เปิดรับ ......
+- I feel self conscious = รู้สึกประหม่า
+- married with children = แต่งงานมีลูกแล้ว
