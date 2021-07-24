@@ -132,9 +132,29 @@
 - achieve = succeed = ประสบความสำเร็จ
 
 ## `Day 6`
+
 - sandbox = สนามทราย, กระบะทรายในสนามเด็กเล่น
 - jack-of-all-trades = คนที่ทำทุกอย่างได้หมด แต่ไม่เก่งซักอย่าง (เป็นเป็ด)
 - specialized = เฉพาะทาง, คำชำนาญเฉพาะทาง
 - side business = ธุรกิจเสริม, ธุรกิจส่วนตัว
 - adaptable = ปรับตัวได้ดี
 - fast learner = คนที่เรียนรู้ได้เร็ว
+
+## `Day 7`
+
+- stress = เน้นเสียง, เน้นย้ำ(ความสำคัญ), เครียด
+- stress over (something) = เครียดกับ....
+- I cannot stress (this) enough = ที่พูดอยู่เนี่ย สำคัญมากเลยนะ
+- pronounce = การออกเสียง
+- communication = การสื่อสาร
+- transportation = การคมนาคมขนส่ง
+- occupation = อาชีพ
+- present(เพรเซ่น) = ของขวัญ, ปัจจุบัน
+- present(พรีเซ้น) = นำเสนอ
+- record(เรกคอร์ด) = สถิติ, แผ่นเสียง
+- record(รีคอร์ด) = บันทึก
+- photograph (`PHO`tograph) = ภาพถ่าย
+- photographer (pho`TOG`raph) = ช่างภาพ
+- deny = ปฏิเสธ
+- implied it = บอกใบ้
+- torture = ทรมาน
