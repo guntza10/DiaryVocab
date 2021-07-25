@@ -158,3 +158,32 @@
 - deny = ปฏิเสธ
 - implied it = บอกใบ้
 - torture = ทรมาน
+
+## `Day 8`
+
+- I'm going there right now = กำลังไป
+- I'm on my way = กำลังไป
+- I'm hungry = หิว
+- I'm starving = หิวจะตายอยู่แล้ว
+- starving = หิวโหย
+- I'm famished = หิวโคตรๆ
+- famished = อดอยาก หิวโซ
+- I could eat a horse = หิวจนจะกินม้าได้ทั้งตัวอยู่แล้วเนี่ย
+- Don't move, Stay still = อย่าขยับ, อยู่นิ่งๆ
+- Let's take a break for ... minutes = พักซัก ... นาที
+- Let's take five! = พักแป๊ปนึงนะ(พักช่วงสั้นๆ อาจจะ 5 หรือ 7 หรือ 10 นาทีก็ได้)
+- Do you think you can do it? = คิดว่าจะทำได้มั้ย?
+- Do you think you can handle it? = คิดว่าจะจัดการได้มั้ย?/รับมือไหวมั้ย?/เอาอยู่มั้ย?
+- handle = จัดการ, รับมือกับ something
+- Can I sleep on it? = ขอกลับไปนอนคิดดูก่อนได้มั้ย
+- sleep on it = ไปนอนคิดดูก่อน
+- I don't have enough money on me = ชั้นมีเงินติดตัวไม่พออะ
+- I'm a little short on cash(`I'm a little short`) = เงินไม่พอ
+- I don't think so. = ชั้นไม่คิดว่าเป็นยังงั้นนะ
+- Not that I know of. = เท่าที่รู้ก็ไม่นะ
+- I can't place her. = ชั้นจำเธอไม่ได้ (`เคยเจอมาก่อนแน่ๆ แต่จำไม่ได้ว่าที่ไหน`)
+- place = (v.) จำ (someone) ได้, จำได้
+- Crowdfunding = การระดมทุนจากฝูงชนคนละไม่มากเพื่อสนับสนุนกิจกรรม โครงการ หรือธุรกิจ ผ่านเว็บไซต์กลาง
+- Let's do that = ลุยเลย
+- I second that! = เห็นด้วย, สนับสนุน
+- long time no see = ไม่ได้เจอกันตั้งนานเลยนะ
