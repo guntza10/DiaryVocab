@@ -187,3 +187,33 @@
 - Let's do that = ลุยเลย
 - I second that! = เห็นด้วย, สนับสนุน
 - long time no see = ไม่ได้เจอกันตั้งนานเลยนะ
+
+## `Day 9`
+
+- He is such a pig!(`dirty,greedy,obnoxious`) = เอาไว้เรียกคนที่รู้สึกรังเกียจ
+- greedy = โลภ
+- obnoxious = น่ารังเกียจ
+- You're such a dog!(`worthless,contemptible`) =
+- worthless = ไร้ค่า
+- contemptible = น่ารังเกียจ เหยียดหยาม
+- You lazy dog! = คนขี้เกียจสันหลังยาว
+- You lucky dog!/bastard! = พูดถึงประมาณว่า คนไม่เอาไหน แต่ทำไมโชคดี
+- bastard = สารเลว
+- She's a real dog! = เธอหน้าตาแย่มาก (`super ugly`)
+- an old crow! = ผู้หญิงแก่ น่าเกียจ
+- Are you chicken? = แกมันขี้ขลาดหรอ?
+- coward = ขี้ขลาด
+- chicken out! = ป๊อด
+- pig out! = กินมูมมาม
+- pigged out on .... = กิน....อย่างมูมมาม
+- pigheaded = (adj.) หัวดื้อ, หัวแข็ง
+- obstinate = ดื้อรั้น
+- pigsty = เล้าหมู (ถ้าในสำนวนจะหมายถึงสถานที่ๆสกปรก รกรุงรัง)
+- messy = รกรุงรัง
+- dog-ear = (v.) พับมุมกระดาษหน้าหนังสือ
+- Crow's feet = ตีนกา
+- chick = ผู้หญิง, ผู้หญิงที่สาวๆ (คล้ายๆชะนี)
+- chick flick = หนังผู้หญิงๆ (ที่ตัวหลักเป็นผญ.)
+- flick = (n.) ภาพยนตร์, (v.) สะบัด
+- chick lit = วรรณกรรมผู้หญิงๆ
+- literature (ลิทเทอร์เจอร์) = วรรณกรรม
