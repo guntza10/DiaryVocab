@@ -193,7 +193,7 @@
 - He is such a pig!(`dirty,greedy,obnoxious`) = เอาไว้เรียกคนที่รู้สึกรังเกียจ
 - greedy = โลภ
 - obnoxious = น่ารังเกียจ
-- You're such a dog!(`worthless,contemptible`) =
+- You're such a dog!(`worthless,contemptible`) = คนไร้ค่า, คนน่ารังเกียจเหยียดหยาม
 - worthless = ไร้ค่า
 - contemptible = น่ารังเกียจ เหยียดหยาม
 - You lazy dog! = คนขี้เกียจสันหลังยาว
