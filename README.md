@@ -314,7 +314,7 @@
 - It takes a while = มันต้องใช้เวลา
 - depress = เศร้าหมอง, หดหู่
 - frustrating = น่าหงุดหงิดคับข้องใจ, น่าท้อแท้
-- cross my mind = คิดถึง(`เรื่องอะไรขึ้นมาซักอย่าง`) (`thinking about it`)
+- cross my mind = คิดถึง(`เรื่องอะไรซักอย่างขึ้นมา`) (`thinking about it`)
 - keep going = สู้ต่อไป, เดินหน้าต่อไป
 - struggle = ดิ้นรน, พยายามทำเรื่องยากๆให้สำเร็จ
 - laugh at (something) = หัวเราะกับเรื่อง....
