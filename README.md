@@ -293,3 +293,42 @@
 - Feng shui = ฮวงจุ้ย
 - chop chop! = เร็วๆหน่อย
 - No can do! = ทำไม่ได้หรอก, ไม่ได้หรอก
+
+## `Day 14`
+
+- What class were you? = คุณจบปีอะไร
+- class of + ปี = จบปี....
+- we're the same age = เราอายุเท่ากันเลย, เรารุ่นเดียวกัน
+- I'm coming up on 26(age) = อายุชั้นย่างเข้า 26(ปี)
+- Happy early birthday = สุขสันต์วันเกิดล่วงหน้า
+- absorb = ซึมซับ, ดูดกลืน
+- reserved = (adj.) สงบเสงี่ยม
+- reserve = (v.) จอง
+- opinionated = (adj.) ชอบแสดงความคิดเห็น, หัวดื้อ
+- holdback = ระวังคำพูด, ระวังการกระทำ
+- bother(บาเธอร์) = รบกวน, ทำให้กังวลใจ
+- eventually = ในที่สุด
+- It will come eventually = เดะมันก็ได้เอง, เดะมันก็มาเอง
+- force = (n.) แรง, พลัง, อำนาจ , (v.) บังคับ, ฝืน
+- Don't take it too seriously = อย่าไปเครียดกับมันมาก
+- It takes a while = มันต้องใช้เวลา
+- depress = เศร้าหมอง, หดหู่
+- frustrating = น่าหงุดหงิดคับข้องใจ, น่าท้อแท้
+- cross my mind = คิดถึง(`เรื่องอะไรขึ้นมาซักอย่าง`) (`thinking about it`)
+- keep going = สู้ต่อไป, เดินหน้าต่อไป
+- struggle = ดิ้นรน, พยายามทำเรื่องยากๆให้สำเร็จ
+- laugh at (something) = หัวเราะกับเรื่อง....
+- laugh at (someone) = หัวเราะเยาะใคร.....
+- impress = ประทับใจ
+- turf = ถิ่น, ที่ของเรา
+- this is your turf = นี่มันถิ่นคุณ, นี่มันที่ของคุณ
+- stoked = รู้สึกตื่นเต้นยินดี (กับอะไรซักอย่าง)
+- nitpicky = จุกจิกกับเรื่องไม่เป็นเรื่อง
+- potential = ศักยภาพ
+- fluent = คล่องแคล่ว
+- effective = มีประสิทธิภาพ
+- proficient = เก่ง, เชี่ยวชาญ
+- put in time/put the time in = ทุ่มเทเวลาให้กับ(something)
+- definitely = แน่นอน
+- time management = การบริหารเวลา
+- priority = ลำดับความสำคัญ
