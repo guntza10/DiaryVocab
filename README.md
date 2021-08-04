@@ -95,7 +95,7 @@
 - bare = เปลือยเปล่า
 - hear = ได้ยิน
 - here = ที่นี่
-- there = ที่นู่น
+- there = ที่นั่น
 - their = ของเขา
 - they're = ย่อมาจาก they are
 
