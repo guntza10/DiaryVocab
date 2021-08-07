@@ -347,3 +347,26 @@
 - mature(`มาชัวร์,มาทัวร์`) = เป็นผู้ใหญ่มีวุฒิภาวะ
 - mentor(`เมนเทอร์,เมนทอร์`) = พี่เลี้ยง
 - GIF(`กิฟ,จิฟ`)(Graphics Interchange Format) = ภาพ GIF เคลื่อนไหว
+
+## `Day 16`
+
+- motto = คติประจำใจ
+- opportunity = (n.) โอกาส
+- risk-taker = (n.) คนชอบ/กล้าเสี่ยง
+- seem = (v.) ดูเหมือน
+- do no harm = (v.) ไม่ทำอันตราย
+- Good enough isn't good enough = แค่ดีพอ แสดงว่ายังดีไม่พอ
+- Don't wish for it, work for it! = อย่ามัวแต่อยาก แต่จงลงมือทำซะ
+- If it didn't kill you, It will make you stronger/What doesn't kill you make you stronger = อะไรที่ฆ่าเราไม่ตาย จะทำให้เราแข็งแกร่งขึ้น
+- Feel the fear, and do it anyway! = จงกลัว และลงมือทำมันซะ!
+- If it ain't broke, don't fix it = อะไรที่ไม่เสีย อย่าไปซ่อม(เพราะจากที่ดีๆอยู่แล้ว อาจจะพังได้), พูดเมื่อรู้สึกว่าบางสิ่งมันโอเครอยู่แล้ว ไม่มีเหตุผลที่จะต้องไปเปลี่ยนแปลงมัน
+- You don't have to go fast, you just have to go = ยังวิ่งไม่ได้ไม่เป็นไร แต่ขอให้ออกเดินก่อน อย่าอยู่กับที่
+- I will make it work = ชั้นจะทำมันให้ได้
+- To be, rather than to seem = จงเป็นของแท้ ไม่ใช่ของปลอม(ex.เป็นคนเก่งจริงๆ ไม่ใช่ดูเหมือนจะเก่ง)
+- Whatever you are, be a good one = ไม่ว่าจะเป็นอะไร จงเป็นให้ดี
+- Do no harm, and take no shit! = อย่าไปทำร้ายใคร และก็อย่าให้ใครมาทำร้ายเรา
+- harm = อันตราย
+- take shit (from someone) = ยอมให้คนอื่นทำไม่ดีกับเรา(let someone treat you badly)
+- take a shit = ขี้
+- Never make anyone regret helping you = อย่าทำให้คนที่เคยช่วยเรารู้สึกเสียใจ(ที่เคยช่วยเราไว้)
+- regret = เสียใจที่ได้ทำ/ไม่ได้ทำอะไรซักอย่าง
