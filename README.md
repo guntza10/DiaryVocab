@@ -413,8 +413,8 @@
 - waterfalling = ดื่มน้ำแบบปากขวดไม่แตะริมฝีปาก
 - sip = จิบ
 - swig = ดื่มแบบอั่กๆๆ
-- number sign, pound sign, hash = # (hashtag)
 - grawlix = สัญลักษณ์ `@#$%&` แทนคำด่า/คำหยาบ
+- number sign, pound sign, hash = # (hashtag)
 - dollar sign = $
 - ampersand = & (and)
 - interrobang = !?,?!
