@@ -404,3 +404,19 @@
   `Note :` ใช้ตัวเลขมาบอกระดับรูปร่างหน้าตาคนได้
 - He's a five = หน้าตากลางๆ
 - zero in(`on someone/something`) = พุ่งความสนใจทั้งหมดไปที่ใคร/อะไรซักอย่าง
+
+## `Day 19`
+
+- lexicon = dictionary(พจนานุกรม)
+- lexicographer = นักเขียน dictionary
+- birdie = ดื่มน้ำแบบริมฝึปากไม่แตะปากขวด
+- waterfalling = ดื่มน้ำแบบปากขวดไม่แตะริมฝีปาก
+- sip = จิบ
+- swig = ดื่มแบบอั่กๆๆ
+- number sign, pound sign, hash = # (hashtag)
+- grawlix = สัญลักษณ์ `@#$%&` แทนคำด่า/คำหยาบ
+- dollar sign = $
+- ampersand = & (and)
+- interrobang = !?,?!
+- shapely = รูปทรงสวย/ดี
+- callipygian = มีตูดที่สวย
