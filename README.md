@@ -1,3 +1,19 @@
+# `New Journey Vocab`
+
+## `Day 1`
+
+- administration(n.) = การบริหาร,การจัดการ
+- bloke (n.) = ผู้ชาย,เจ้าพ่อ
+- bring (v.) = นำมา,พา
+- autumn (n.) = ฤดูใบไม้ร่วง
+- away (adv.) = ออกห่าง,ไม่อยู่
+
+- major (a.) = หลัก,สำคัญ,ส่วนมาก
+- indeed (adv.) = จริงๆ (ใช้เน้น)
+- modern (a.) = ทันสมัย
+- last (v.) = ทนทาน,คงอยู่
+- material (n.) = วัสดุ
+
 # `DiaryVocab`
 
 ## `Day 1`
