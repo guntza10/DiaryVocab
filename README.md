@@ -25,7 +25,7 @@
 - assume (v.) = สมมุติ, สันนิษฐาน
 - goods (n.) = สินค้า
 - miss (v.) = พลาด,คิดถึง
-- media (v.) = สื่อ
+- media (n.) = สื่อ
 
 # `DiaryVocab`
 
