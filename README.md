@@ -27,6 +27,15 @@
 - miss (v.) = พลาด,คิดถึง
 - media (n.) = สื่อ
 
+## `Day 3`
+
+- current (a.) = ที่ใช้ในปัจจุบัน
+- assumption (n.) = สมมติฐาน
+- match (n.) = คู่,การแข่งขัน
+- glass (n.) = แก้ว
+- glasses (n.) = แว่นตา
+- fit (v.) = เหมาะสม
+
 # `DiaryVocab`
 
 ## `Day 1`
