@@ -36,6 +36,17 @@
 - glasses (n.) = แว่นตา
 - fit (v.) = เหมาะสม
 
+## `Day 4`
+
+- colleague (n.) = เพื่อนร่วมงาน
+- directly (adv.) = โดยตรง
+- institution (n.) = สถาบัน,ธรรมเนียม
+- guarantee (v.) = รับประกัน
+- excellent (a.) = ยอดเยี่ยม
+- mean (v.) = หมายความว่า(vt),ตั้งใจ(vi)
+- lift (v.) = ยก
+- meal (n.) = มื้ออาหาร,อาหาร
+
 # `DiaryVocab`
 
 ## `Day 1`
