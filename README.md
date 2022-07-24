@@ -7,7 +7,6 @@
 - bring (v.) = นำมา,พา
 - autumn (n.) = ฤดูใบไม้ร่วง
 - away (adv.) = ออกห่าง,ไม่อยู่
-
 - major (a.) = หลัก,สำคัญ,ส่วนมาก
 - indeed (adv.) = จริงๆ (ใช้เน้น)
 - modern (a.) = ทันสมัย
@@ -46,6 +45,20 @@
 - mean (v.) = หมายความว่า(vt),ตั้งใจ(vi)
 - lift (v.) = ยก
 - meal (n.) = มื้ออาหาร,อาหาร
+
+## `Day 5`
+
+- achieve (v.) = สำเร็จ,บรรลุผล
+- coal (n.) = ถ่าน
+- authority (n.) = ผู้มีอำนาจ
+- charge (n.) = ค่าธรรมเนียม
+- charge (v.) = กล่าวหา,โจมตี
+- clearly (adv.) = อย่างชัดเจน
+- council (n.) = สภา
+- hopefully (adv.) = อย่างคาดหวังไว้
+- field (n.) = สนาม,ทุ่งนา
+- exactly (adv.) = อย่างแน่นอน
+- generally (adv.) = โดยทั่วไป
 
 # `DiaryVocab`
 
