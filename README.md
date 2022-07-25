@@ -60,6 +60,28 @@
 - exactly (adv.) = อย่างแน่นอน
 - generally (adv.) = โดยทั่วไป
 
+## `Day 6`
+
+- define (v.) = กำหนด,นิยาม
+- downstairs (adv.) = ข้างล่าง
+- downstairs (n.) = ชั้นล่าง
+- brilliant (a.) = ฉลาด,หลักแหลม,งดงาม
+- marvellous (a.) = ยอดเยี่ยม,มหัศจรรย์
+- limit (n.) = ขีดจำกัด,ขอบเขต
+- limit (vt.) = จำกัด
+- light (a.) = สว่าง,เบา
+- hand (v.) = จูงมือ,ส่งให้
+- foundation (n.) = รากฐาน,พื้นฐาน,ผู้ก่อตั้ง
+- military (a.) = เกี่ยวกับทหาร
+- military (n.) = ทหาร
+- literally (adv.) = อย่างแท้จริง
+- force (v.) = บังคับ
+- force (n.) = แรง,พลัง
+- matter (v.) = เป็นเรื่องสำคัญ
+- matter (n.) = วัตถุ,สาร(topicที่ต้องการจะสื่อ)
+- historical (a.) = เกี่ยวกับประวัติศาสตร์
+- expression (n.) = การแสดงออก,เครื่องหมาย
+
 # `DiaryVocab`
 
 ## `Day 1`
