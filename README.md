@@ -226,3 +226,18 @@
 - rarely (adv.) = นานๆ ครั้ง (20%)
 - hardly (adv.) = แทบจะไม่ (10%)
 - never (adv.) = ไม่เคย (0%)
+
+## `Day 17`
+
+- ahead (adv.) = ล่วงหน้า,ไปข้างหน้า
+- attractive (a.) = มีเสน่ห์,น่าดึงดูด
+- definition (n.) = คำนิยาม,การกำหนด
+- immediately (adv.) = โดยทันที
+- hill (n.) = เนินเขา
+- neat (a.) = ประณีต,เรียบร้อย
+- exchange (n.) = การแลกเปลี่ยน
+- exchange (v.) = แลกเปลี่ยน
+- income (n.) = รายได้
+- maintain (v.) = บำรุงรักษา
+- lay (v.) = วาง,นอนลง,วางไข่
+- majority (n.) = ส่วนใหญ่
