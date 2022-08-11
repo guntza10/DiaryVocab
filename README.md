@@ -241,3 +241,8 @@
 - maintain (v.) = บำรุงรักษา
 - lay (v.) = วาง,นอนลง,วางไข่
 - majority (n.) = ส่วนใหญ่
+- semester (n.) = ภาคเรียน,เทอมการศีกษา
+- at this time (present continuous) = ตอนนี้
+- at the moment (present continuous) = ตอนนี้
+- rigth now (present continuous) = ตอนนี้
+- these days (present continuous) = วันนี้
