@@ -78,7 +78,7 @@
 - force (v.) = บังคับ
 - force (n.) = แรง,พลัง
 - matter (v.) = เป็นเรื่องสำคัญ
-- matter (n.) = วัตถุ,สาร(topicที่ต้องการจะสื่อ)
+- matter (n.) = วัตถุ,สาระสำคัญ
 - historical (a.) = เกี่ยวกับประวัติศาสตร์
 - expression (n.) = การแสดงออก,เครื่องหมาย
 
@@ -246,3 +246,22 @@
 - at the moment (present continuous) = ตอนนี้
 - rigth now (present continuous) = ตอนนี้
 - these days (present continuous) = วันนี้
+
+## `Day 18`
+
+- character (n.) = ตัวอักษร,ตัวละคร,ลักษณะ,อุปนิสัย
+- centre (n.) = ศูนย์กลาง
+- cover (v.) = คลุม,ปกปิด,คุ้มกัน
+- approach (n.) = การเข้าใกล้,วิธีการ(ทำให้ถึงจุดหมาย)
+- approach (v.) = เข้าใกล้
+- drop (v.) = โยนทิ้ง,ตก,ลดลง
+- advance (n.) = ความก้าวหน้า,ความเจริญ
+- advance (v.) = ก้าวหน้า
+- offer (n.) = ข้อเสนอ
+- offer (v.) = เสนอ
+- observe (v.) = สังเกต,เฝ้าดู
+- nasty (a.) = น่ารังเกียจ
+- noise (n.) = เสียงดัง,เสียงรบกวน
+- experience (v.) = มีประสบการณ์,รู้สึก
+- experience (n.) = ประสบการณ์
+- helpful (a.) = มีประโยชน์
