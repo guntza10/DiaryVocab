@@ -265,3 +265,18 @@
 - experience (v.) = มีประสบการณ์,รู้สึก
 - experience (n.) = ประสบการณ์
 - helpful (a.) = มีประโยชน์
+
+## `Day 19`
+
+- cause (v.) = ทำให้เกิด
+- cause (n.) = สาเหตุ
+- beat (v.) = ตี,ชนะ
+- beat (n.) = จังหวะ
+- ago (adv.) = ที่ผ่านมาแล้ว
+- attend (v.) = เข้าร่วม
+- band (n.) = วงดนตรี,สายรัด
+- find (v.) = หา,พบ
+- metal (n.) = โลหะ
+- necessary (a.) = จำเป็น
+- mostly (adv.) = ส่วนใหญ่
+- except (prep.) = ยกเว้น,นอกจาก
