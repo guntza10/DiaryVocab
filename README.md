@@ -319,3 +319,22 @@
 - minister (n.) = รัฐมนตรี
 - enquiry (n.) = การสอบสวน,การสอบถาม
 - mention (v.) = กล่าวถึง,พูดถึง
+
+## `Day 23`
+
+- difference (n.) = ความแตกต่าง
+- difference (v.) = ทำให้แตกต่าง
+- different (a.) = แตกต่าง
+- alternative (a.) = ซึ่งเลือกได้
+- alternative (n.) = ทางเลือก
+- appreciate (v.) = ชื่นชม,ซาบซึ้ง
+- credit (n.) = ความน่าเชื่อถือ
+- credit (v.) = เชื่อถือ
+- afterwards (adv.) = ภายหลัง,หลังจากนั้น
+- lose (v.) = แพ้,เสีย(สูญเสีย)
+- individual (n.) = บุคคล(คน ๆ เดียว)
+- individual (a.) = ส่วนบุคคล,แต่ละบุคคล
+- firm (n.) = บริษัท
+- horrible (a.) = น่ากลัว,สยดสยอง
+- mental (a.) = เกี่ยวกับจิตใจ
+- international (a.) = ระหว่างประเทศ,นานาชาติ,สากล
