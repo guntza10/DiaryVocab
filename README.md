@@ -370,3 +370,16 @@
 - estate (n.) = อสังหาริมทรัพย์,ทรัพย์สิน
 - independence (n.) = อิสระภาพ
 - model (n.) = แบบจำลอง,นาย/นางแบบ
+
+## `Day 26`
+
+- chap (n.) = รอยแตก,ผู้ชาย(ไม่เป็นทางการ)
+- chap (v.) = แตก
+- certain (a.) = แน่นอน
+- certain (pro.) = บาง
+- annual (a.) = ประจำปี
+- interview (n.) = การสัมภาษณ์
+- interview (v.) = สัมภาษณ์
+- especially (adv.) = โดยเฉพาะ
+- increasingly (adv.) = เพิ่มมากขึ้น
+- likely (a.) = น่าจะเป็นไปได้
