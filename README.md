@@ -458,3 +458,19 @@
 - joint (a.) = ร่วมกัน,เชื่อมโยง
 - joint (n.) = ข้อต่อ(กระดูก),รอยต่อ
 - moreover (adv.) = นอกจากนี้
+
+## `Day 32`
+
+- century (n.) = ศตวรรษ
+- dress (v.) = แต่งตัว,ตกแต่ง
+- dress (n.) = เสื้อผ้า
+- active (a.) = กระตือรือร้น
+- accurate (a.) = แม่นยำ
+- election (n.) = การเลือกตั้ง
+- nature (n.) = ธรรมชาติ
+- national (a.) = ระดับชาติ
+- look (n.) = ลักษณะ,รูปร่างหน้าตา
+- look (v.) = ดู
+- fundamental (a.) = พื้นฐาน
+- government (n.) = รัฐบาล
+- essentially (adv.) = อย่างสำคัญ,อย่างจำเป็น
