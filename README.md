@@ -474,3 +474,22 @@
 - fundamental (a.) = พื้นฐาน
 - government (n.) = รัฐบาล
 - essentially (adv.) = อย่างสำคัญ,อย่างจำเป็น
+
+## `Day 33`
+
+- apologize (v.) = ขอโทษ,แก้ตัว
+- appeal (n.) = คำขอร้อง
+- appeal (v.) = ขอร้อง,อ้อนวอน
+- economic (a.) = เกี่ยวกับเศรษฐกิจ
+- challenge (n.) = ความท้าทาย
+- challenge (v.) = ท้าทาย,คัดค้าน
+- aid (n.) = ความช่วยเหลือ
+- aid (v.) = ช่วยเหลือ
+- defence (n.) = การป้องกัน
+- form (n.) = รูปแบบ,รูปร่าง
+- form (v.) = สร้าง
+- mind (n.) = จิตใจ
+- ignore (v.) = ไม่สนใจ
+- introduce (v.) = แนะนำ
+- handle (v.) = จัดการ,รับมือ,จับ
+- handle (n.) = ที่จับ,ด้าม
