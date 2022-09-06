@@ -493,3 +493,15 @@
 - introduce (v.) = แนะนำ
 - handle (v.) = จัดการ,รับมือ,จับ
 - handle (n.) = ที่จับ,ด้าม
+
+## `Day 34`
+
+- circumstance (n.) = สถานการณ์,สภาพ,โอกาส
+- apparently (adv.) = ชัดเจน,อย่างที่เห็น
+- dead (a.) = ตาย
+- dead (n.) = คนตาย
+- communication (n.) = การติดต่อสื่อสาร
+- loan (n.) = เงินกู้
+- old (a.) = เก่า,แก่,เดิม
+- idea (n.) = ความคิด
+- honest (a.) = ซื่อสัตย์
