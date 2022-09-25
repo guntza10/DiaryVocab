@@ -469,7 +469,7 @@
 - nature (n.) = ธรรมชาติ
 - national (a.) = ระดับชาติ
 - look (n.) = ลักษณะ,รูปร่างหน้าตา
-- look (v.) = ดู
+- look (v.) = มอง,ดู
 - fundamental (a.) = พื้นฐาน
 - government (n.) = รัฐบาล
 - essentially (adv.) = อย่างสำคัญ,อย่างจำเป็น
