@@ -859,3 +859,21 @@
 - remember (v.) = จำได้,จดจำ
 - reflect (v.) = สะท้อน
 - technical (a.) = ทางเทคนิค
+
+## `Day 58`
+
+- product (n.) = ผลิตภัณฑ์,สินค้า
+- personally (adv.) = โดยส่วนตัว
+- precisely (adv.) = แม่นยำ,เป๊ะ
+- regulation (n.) = กฎข้อบังคับ
+- sale (n.) = การขาย,การลดราคา
+- reasonable (a.) = มีเหตุผล,เหมาะสม
+- speech (n.) = คำพูด,สุนทรพจน์
+- shower (n.) = การอาบน้ำ(ฝักบัว)
+- survey (n.) = การสำรวจ
+- survey (v.) = สำรวจ
+- prepared (a.) = เตรียมพร้อม
+- prepare (v.) = เตรียมตัว
+- pleased (a.) = พอใจ,ยินดี
+- strange (a.) = แปลก(ประหลาด,หน้า)
+- pollution (n.) = มลพิษ
