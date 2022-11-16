@@ -906,3 +906,19 @@
 - represent (v.) = แทน,แสดง
 - pupil (n.) = นักเรียน,ลูกศิษย์
 - personal (a.) = ส่วนบุคคล,ส่วนตัว
+
+## `Day 61`
+
+- population (n.) = ประชากร
+- quickly (adv.) = อย่างรวดเร็ว
+- suspect (v.) = สงสัย
+- survive (v.) = อยู่รอด
+- really (adv.) = จริงๆ
+- paint (v.) = ทาสี,ระบายสี,วาดรูป
+- paint (n.) = สี
+- original (a.) = ดั้งเดิม,ต้นฉบับ
+- tend (v.) = มีแนวโน้ม,ดูแล
+- repeat (v.) = ทำซ้ำ,ทวน
+- pack (v.) = บรรจุ
+- pack (n.) = ซอง,ห่อ
+- seem (v.) = ดูเหมือน
