@@ -951,3 +951,18 @@
 - real (a.) = จริง
 - propose (v.) = เสนอ,ตั้งใจ,ขอแต่งงาน
 - source (n.) = แหล่งที่มา
+
+## `Day 64`
+
+- pile (n.) = กอง
+- research (n.) = การวิจัย,การค้นคว้า
+- research (v.) = ค้นคว้า,วิจัย
+- spare (a.) = สำรอง
+- output (n.) = ผลลัพธ์,ผลผลิต
+- standard (n.) = มาตรฐาน
+- standard (a.) = ที่เป็นมาตรฐาน
+- sense (n.) = ความรู้สึก
+- sense (v.) = รู้สึก
+- produce (v.) = ผลิต
+- payment (n.) = การชำระเงิน
+- quality (n.) = คุณภาพ
