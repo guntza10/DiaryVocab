@@ -966,3 +966,18 @@
 - produce (v.) = ผลิต
 - payment (n.) = การชำระเงิน
 - quality (n.) = คุณภาพ
+
+## `Day 65`
+
+- prefer (v.) = ชอบ(มากกว่า)
+- ridiculous (a.) = น่าหัวเราะ,ขบขัน
+- suddenly (adv.) = กะทันหัน
+- super (a.) = สุดยอด
+- smart (a.) = ฉลาด,เก่ง
+- pattern (n.) = ลวดลาย,รูปแบบ
+- relevant (a.) = ตรงประเด็น,ที่เกี่ยวข้อง
+- religion (n.) = ศาสนา
+- reach (v.) = เอื้อม,เข้าถึง,ครอบงำ,บรรลุผล
+- patient (n.) = คนไข้
+- patient (a.) = อดทน
+- pie (n.) = ขนมพาย
