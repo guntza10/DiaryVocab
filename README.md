@@ -981,3 +981,24 @@
 - patient (n.) = คนไข้
 - patient (a.) = อดทน
 - pie (n.) = ขนมพาย
+
+## `Day 66`
+
+- silly (a.) = โง่
+- previous (a.) = ก่อนหน้า
+- pension (n.) = เงินบำนาญ
+- path (n.) = เส้นทาง
+- support (n.) = การสนับสนุน,ผู้สนับสนุน
+- support (v.) = สนับสนุน
+- refer (v.) = อ้างอิง
+- rush (v.) = เร่งรีบ,วิ่ง
+- past (n.,a.) = อดีต
+- presentation (n.) = การนำเสนอ
+- rent (n.) = ค่าเช่า
+- rent (v.) = เช่า
+- stamp (n.) = แสตมป์
+- stamp (v.) = ประทับ
+- present (n.) = ของขวัญ
+- present (a.) = ปัจจุบัน
+- question (n.) = คำถาม
+- question (v.) = ถาม
