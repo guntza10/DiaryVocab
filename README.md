@@ -1002,3 +1002,20 @@
 - present (a.) = ปัจจุบัน
 - question (n.) = คำถาม
 - question (v.) = ถาม
+
+## `Day 67`
+
+- raise (v.) = ยก(ขึ้น),เลี้ยงดู
+- quick (a.) = เร็ว
+- remove (v.) = ย้าย,ถอด,ลบ,กำจัด
+- owe (v.) = เป็นหนี้
+- responsibility (n.) = ความรับผิดชอบ
+- race (n.) = เชื้อชาติ,การแข่งขัน
+- spring (n.) = ฤดูใบไม้ผลิ
+- autumn (n.) = ฤดูใบไม้ร่วง
+- smooth (a.) = เรียบ,ราบรื่น
+- switch (v.) = เปลี่ยน,สลับ
+- project (n.) = โครงการ
+- suppose (v.) = สมมติ
+- pick (v.) = เลือก,หยิบ
+- respond (v.) = ตอบสนอง
