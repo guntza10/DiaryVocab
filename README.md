@@ -1075,3 +1075,23 @@
 - plant (v.) = ปลูก
 - remain (v.) = ยังคง(ยังอยู่)
 - part (n.) = ส่วนหนึ่ง
+
+## `Day 71`
+
+- pocket (n.) = กระเป๋า(กางเกง,เสื้อ)
+- statistic (n.) = สถิติ
+- slightly (adv.) = เล็กน้อย
+- proud (a.) = ภูมิใจ
+- progress (n.) = ความก้าวหน้า
+- progress (v.) = ก้าวหน้า
+- production (n.) = การผลิต
+- sight (n.) = การมองเห็น,ภาพ
+- sight (v.) = เห็น,เล็ง
+- peace (n.) = ความสงบ,สันติภาพ
+- rate (n.) = อัตรา,ราคา
+- rate (v.) = ประเมิน
+- park (v.) = จอดรถ
+- scene (n.) = ฉาก,ภาพ
+- shoulder (n.) = ไหล่
+- smoke (v.) = สูบบุหรี่,พ่นควัน
+- presumably (adv.) = น่าจะเป็นไปได้
