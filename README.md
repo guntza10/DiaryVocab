@@ -1095,3 +1095,21 @@
 - shoulder (n.) = ไหล่
 - smoke (v.) = สูบบุหรี่,พ่นควัน
 - presumably (adv.) = น่าจะเป็นไปได้
+
+## `Day 72`
+
+- society (n.) = สังคม
+- property (n.) = คุณสมบัติ,ทรัพย์สิน
+- section (n.) = ส่วน,หน่วย,แผนก
+- professional (a.) = เป็นมืออาชีพ(เชี่ยวชาญ)
+- professional (n.) = มืออาชีพ
+- shop (n.) = ร้านค้า
+- remind (v.) = เตือน(ความจำ)
+- social (a.) = ทางสังคม
+- recommend (v.) = แนะนำ
+- prison (n.) = คุก
+- politician (n.) = นักการเมือง
+- straight (a.) = ตรง,ซื่อตรง
+- statement (n.) = คำแถลง,รายงานการเงิน
+- regime (n.) = ระบอบการปกครอง
+- otherwise (adv.) = มิฉะนั้น(ไม่งั้น)
