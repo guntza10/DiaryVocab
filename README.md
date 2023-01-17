@@ -1184,3 +1184,4 @@
 - present (v.) = เสนอ,แสดง
 - special (a.) = พิเศษ
 - wonderful (a.) = มหัศจรรย์,วิเศษ
+- hectic (a.) = วุ่นวาย
