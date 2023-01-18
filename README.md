@@ -1185,3 +1185,24 @@
 - special (a.) = พิเศษ
 - wonderful (a.) = มหัศจรรย์,วิเศษ
 - hectic (a.) = วุ่นวาย
+
+## `Day 77`
+
+- recover (v.) = ฟื้นตัว,กู้คืน
+- reform (v.) = ปฏิรูป
+- reform (n.) = การปฏิรูป
+- specific (a.) = เฉพาะเจาะจง
+- properly (adv.) = อย่างเหมาะสม
+- speaker (n.) = ลำโพง,ผู้พูด,โฆษก(พิธีกร)
+- style (n.) = สไตล์,ลักษณะ
+- prevent (v.) = ป้องกัน
+- simple (a.) = ง่าย,เรียบง่าย
+- plain (a.) = ธรรมดา
+- plain (n.) = ที่ราบ
+- process (n.) = กระบวนการ
+- state (n.) = สถานะ,สภาพ
+- scheme (n.) = โครงการ
+- requirement (n.) = ความต้องการ
+- record (v.) = บันทึก
+- record (n.) = การบันทึก(บันทึก)
+- region (n.) = ภูมิภาค,ดินแดน
