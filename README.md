@@ -32,8 +32,8 @@
 - current (n.) = ปัจจุบัน
 - assumption (n.) = สมมติฐาน
 - match (n.) = คู่,การแข่งขัน
-- glass (n.) = แก้ว
-- glasses (n.) = แว่นตา
+- glass (n.) = แก้ว (กลาส)
+- glasses (n.) = แว่นตา (กลาสเสส)
 - fit (v.) = เหมาะสม
 
 ## `Day 4`
