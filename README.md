@@ -29,6 +29,7 @@
 ## `Day 3`
 
 - current (a.) = ที่ใช้ในปัจจุบัน
+- current (n.) = ปัจจุบัน
 - assumption (n.) = สมมติฐาน
 - match (n.) = คู่,การแข่งขัน
 - glass (n.) = แก้ว
