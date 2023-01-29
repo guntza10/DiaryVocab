@@ -1212,3 +1212,7 @@
 
 - weird (a.) = แปลก,เพี๊ยน
 - crush (v.) = บดขยี้
+- reckless (a.) = สะเพร่า,เสี่ยง
+- stare (v.) = จ้อง
+- indecisive (a.) = ลังเล
+- drown (v.) = จมน้ำ
