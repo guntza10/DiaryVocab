@@ -1216,3 +1216,22 @@
 - stare (v.) = จ้อง
 - indecisive (a.) = ลังเล
 - drown (v.) = จมน้ำ
+- listen to (v.) = ฟัง
+- held (v.) = จัดขึ้น
+- hold the line (v.) = ถือสายรอ
+- for a moment (v.) = ซักครู่
+
+## `Extra 2`
+
+- bake (v.) = อบ
+- chew (v.) = เคี้ยว
+- get dressed (v.) = แต่งตัว
+- get up (v.) = ลุกขึ้น
+- look at (v.) = ดู,จ้อง
+- crawl (v.) = คลาน
+- pick you(someone) up (v.) = ไปรับคุณ(someone)
+- go home (v.) = กลับบ้าน
+- be back (v.) = กลับมา
+- be there (v.) = ไปถึงที่นั่น
+- let you know (v.) = บอกให้คุณรู้
+- in a minute = ในไม่ช้า,อีกแปบเดียว
