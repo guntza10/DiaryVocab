@@ -56,7 +56,7 @@
 - charge (v.) = กล่าวหา,โจมตี
 - clearly (adv.) = อย่างชัดเจน
 - council (n.) = สภา
-- hopefully (adv.) = อย่างคาดหวังไว้
+- hopefully (adv.) = หวังว่า,อย่างมีความหวัง
 - field (n.) = สนาม,ทุ่งนา
 - exactly (adv.) = อย่างแน่นอน
 - generally (adv.) = โดยทั่วไป
