@@ -1235,3 +1235,14 @@
 - be there (v.) = ไปถึงที่นั่น
 - let you know (v.) = บอกให้คุณรู้
 - in a minute = ในไม่ช้า,อีกแปบเดียว
+
+## `Extra 3`
+
+- take a chance = เสี่ยง
+- walk you home = เดินไปส่ง(คุณ)ที่บ้าน
+- drive you home = ขับรถไปส่ง(คุณ)ที่บ้าน
+- for = เพื่อ,สำหรับ
+- for the first time = เป็นครั้งแรก
+- for the last time = เป็นครั้งสุดท้าย
+- on time = ตรงเวลา
+- in time = ทันเวลา
