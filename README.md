@@ -1267,3 +1267,7 @@
 - request(v.) = ขอ,ขอร้อง
 - take off(v.) = ถอด
 - mean to(v.) = ตั้งใจ
+
+## `Extra 5`
+
+- yell(v.) = ตะโกน
