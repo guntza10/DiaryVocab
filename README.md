@@ -108,7 +108,7 @@
 ## `Day 8`
 
 - completely (adv.) = อย่างสมบูรณ์
-- deal (n.) = ข้อตกลง
+- deal (n.) = ข้อเสนอ
 - deal (v.) = จัดการ
 - affair (n.) = ธุรกิจ
 - capable (a.) = สามารถทำได้
