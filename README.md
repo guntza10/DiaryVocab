@@ -1262,3 +1262,8 @@
 - hire(v.) = จ้าง
 - fire(v.) = ยิง,เผา,ไล่ออก
 - hourglass(n.) = นาฬิกาทราย
+- ask for(v.) = ขอ
+- seek(v.) = หา,ตามหา
+- request(v.) = ขอ,ขอร้อง
+- take off(v.) = ถอด
+- mean to(v.) = ตั้งใจ
