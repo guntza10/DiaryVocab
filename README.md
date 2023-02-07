@@ -1214,7 +1214,7 @@
 - crush (v.) = บดขยี้
 - reckless (a.) = สะเพร่า,เสี่ยง
 - stare (v.) = จ้อง
-- indecisive (a.) = ลังเล
+- indecisive (a.) = ลังเล,ไม่เด็ดขาด
 - drown (v.) = จมน้ำ
 - listen to (v.) = ฟัง
 - held (v.) = จัดขึ้น
