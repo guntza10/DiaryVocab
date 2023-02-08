@@ -1293,3 +1293,8 @@
 - defeat(v.) = ทำลาย,ชนะ
 - defeat(n.) = ความพ่ายแพ้
 - slip(v.) = ลื่น,ไถล,หลุดลอย
+- go ahead = ไปข้างหน้า,ทำได้เลย
+- rob(v.) = ปล้น
+- get back together = กลับไปคืนดีกัน
+- answer my call = รับสายฉัน
+- pick up the phone = รับโทรศัพท์
