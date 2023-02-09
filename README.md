@@ -1298,3 +1298,12 @@
 - get back together = กลับไปคืนดีกัน
 - answer my call = รับสายฉัน
 - pick up the phone = รับโทรศัพท์
+
+## `Extra 7`
+
+- move on = ก้าวไปข้างหน้า,ก้าวต่อไป
+- go on = ไปต่อ,ทำต่อ
+- make it = ทำมัน,ไปได้ตามนัด
+- please(v.) = โปรด,ทำให้พอใจ
+- make it right = ทำให้มันถูกต้อง
+- make it up to you = ชดเชยให้กับคุณ
