@@ -1307,3 +1307,7 @@
 - please(v.) = โปรด,ทำให้พอใจ
 - make it right = ทำให้มันถูกต้อง
 - make it up to you = ชดเชยให้กับคุณ
+- sailing(n.) = การล่องเรือ
+- be supposed to = ควร(ควรจะต้องทำ ถูกคาดหวังไว้ให้ทำ)
+- suppose(v.) = สมมติ,คิดว่า (สุภาพกว่า I think)
+- What is it supposed to be like? = มันควรจะเป็นยังไง?
