@@ -1333,3 +1333,37 @@
 - be + booked up = ถูกจองแล้ว
 - That's a shame = น่าเสียดายจัง
 - we're (แวร์)
+
+## `Extra 9`
+
+### `preposition of time`
+
+1. at
+
+- at + จุดเวลา
+- at + มื้ออาหาร
+
+2. in
+
+- in + เดือน
+- in + ฤดู
+- in + ปี
+- in + ช่วงเวลา
+
+3. on
+
+- on + วัน
+
+`Note:`
+
+    - ถ้ามีคำว่า last,next,this,every ไม่ต้องใช้ in,on,at
+    - พวก today,tonight,tomorrow,yesterday ไม่ต้องใช้ in,on,at
+
+4. during = ระหว่าง
+5. for + ระยะเวลา = เป็นระยะเวลา
+6. since + จุดเวลา/ประโยค = ตั้งแต่
+7. until + จุดเวลา/ประโยค = จนกระทั่ง
+8. before + จุดเวลา/ประโยค = ก่อน
+9. after + จุดเวลา/ประโยค = หลัง
+10. within + ระยะเวลา = ภายใน
+11. by + จุดเวลา = ภายใน
