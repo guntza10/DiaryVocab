@@ -1332,3 +1332,4 @@
 - would like = ต้องการ(สุภาพกว่า want)
 - be + booked up = ถูกจองแล้ว
 - That's a shame = น่าเสียดายจัง
+- we're (แวร์)
