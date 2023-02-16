@@ -1328,3 +1328,7 @@
 - joke(n.) = เรื่องตลก
 - joke(v.) = พูดเล่น,ล้อเล่น
 - lose your mind = เสียสติ
+- reservation(n.) = การจอง
+- would like = ต้องการ(สุภาพกว่า want)
+- be + booked up = ถูกจองแล้ว
+- That's a shame = น่าเสียดายจัง
