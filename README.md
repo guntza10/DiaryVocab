@@ -233,22 +233,22 @@
 
 ## `Day 17`
 
-- ahead (adv.) = ล่วงหน้า,ไปข้างหน้า
+- ahead (adv.) = ล่วงหน้า,ข้างหน้า
 - attractive (a.) = มีเสน่ห์,น่าดึงดูด
-- definition (n.) = คำนิยาม,การกำหนด
-- immediately (adv.) = โดยทันที
+- definition (n.) = คำนิยาม,การกำหนด (เดฟฟินิชั่น)
+- immediately (adv.) = โดยทันที,กะทันหัน
 - hill (n.) = เนินเขา
 - neat (a.) = ประณีต,เรียบร้อย
-- exchange (n.) = การแลกเปลี่ยน
+- exchange (n.) = การแลกเปลี่ยน,ตั๋วเงิน
 - exchange (v.) = แลกเปลี่ยน
 - income (n.) = รายได้
 - maintain (v.) = บำรุงรักษา
-- lay (v.) = วาง,นอนลง,วางไข่
+- lay (v.) = วาง,วางไข่,นอนลง
 - majority (n.) = ส่วนใหญ่
 - semester (n.) = ภาคเรียน,เทอมการศีกษา
 - at this time (present continuous) = ตอนนี้
 - at the moment (present continuous) = ตอนนี้
-- rigth now (present continuous) = ตอนนี้
+- right now (present continuous) = ตอนนี้
 - these days (present continuous) = วันนี้
 
 ## `Day 18`
