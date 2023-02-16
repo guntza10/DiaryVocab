@@ -1367,3 +1367,27 @@
 9. after + จุดเวลา/ประโยค = หลัง
 10. within + ระยะเวลา = ภายใน
 11. by + จุดเวลา = ภายใน
+
+### `preposition of place`
+
+1. in = ใน
+2. on = บน
+3. at = ที่
+4. under = ใต้
+5. behind = ข้างหลัง
+6. in front of = ข้างหน้า
+7. next to = ถัดจาก,ข้างๆ
+8. beside = ข้างๆ
+9. near = ใกล้
+10. between = ระหว่าง
+11. above = เหนือ,บน
+12. below = ข้างใต้
+13. inside = ข้างใน
+14. outside = ข้างนอก
+15. among = ท่ามกลาง
+16. opposite = ตรงข้าม
+
+`Note:`
+
+    - in the hospital = เข้า รพ (ป่วย)
+    - at the hospital = อยู่ รพ (ไม่ได้ป่วย)
