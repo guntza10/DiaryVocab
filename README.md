@@ -1391,3 +1391,19 @@
 
     - in the hospital = เข้า รพ (ป่วย)
     - at the hospital = อยู่ รพ (ไม่ได้ป่วย)
+
+### `preposition of direction`
+
+1. through = ผ่าน
+2. along = ตาม
+3. over = เหนือ,บน
+4. up = ขึ้น
+5. down = ลงมา
+6. onto = ไปบน
+7. into = ไปใน
+8. around = รอบๆ
+9. past = ผ่าน
+10. across = ข้าม
+11. away from = ไปจาก
+12. to = ไปยัง + something
+13. toward = ไปทาง
