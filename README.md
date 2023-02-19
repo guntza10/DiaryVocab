@@ -1420,3 +1420,10 @@
 - belt(n.) = เข็มขัด,สายพาน
 - odd(a.) = แปลก,คี่(จำนวน)
 - Odd-size = สิ่งของที่มีรูปร่างแปลกกว่าสัมภาระทั่วไป(snow board,bicycle)
+
+## `Extra 11`
+
+- make your decision = ตัดสินใจ
+- call back = โทรกลับ
+- been to = ไป
+- so = มากๆ,ดังนั้น
