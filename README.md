@@ -1436,3 +1436,7 @@
 - introduce(v.) = แนะนำ(ให้รู้จัก,ตัวเอง)
 - wait for me = รอฉัน
 - would love to + (something) = ชอบที่จะ (something)
+
+## `Extra 12`
+
+- pitcher(n.) = เหยือก
