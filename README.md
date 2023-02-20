@@ -1435,3 +1435,4 @@
 - pass me (something) = ส่ง something ให้ฉัน
 - introduce(v.) = แนะนำ(ให้รู้จัก,ตัวเอง)
 - wait for me = รอฉัน
+- would love to + (something) = ชอบที่จะ (something)
