@@ -1332,6 +1332,7 @@
 - lose your mind = เสียสติ
 - reservation(n.) = การจอง
 - would like = ต้องการ(สุภาพกว่า want)
+- Would you like ... = คุณต้องการ...มั้ย?(สุภาพกว่า Do you want...?)
 - be + booked up = ถูกจองแล้ว
 - That's a shame = น่าเสียดายจัง
 - we're (แวร์)
