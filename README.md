@@ -1111,7 +1111,7 @@
 - shop (n.) = ร้านค้า
 - remind (v.) = เตือน(ความจำ)
 - social (a.) = ทางสังคม
-- recommend (v.) = แนะนำ
+- recommend (v.) = แนะนำ(ว่าดี)
 - prison (n.) = คุก
 - politician (n.) = นักการเมือง
 - straight (a.) = ตรง,ซื่อตรง
@@ -1431,3 +1431,7 @@
 - since(conj.) = เนื่องจาก
 - chaos(n.) = ความโกลาหล,ความวุ่นวาย
 - Can I have (something) ? = ขอ (something) ได้มั้ย? (แบบสุภาพ)
+- pass(v.) = ส่ง,ผ่าน
+- pass me (something) = ส่ง something ให้ฉัน
+- introduce(v.) = แนะนำ(ให้รู้จัก,ตัวเอง)
+- wait for me = รอฉัน
