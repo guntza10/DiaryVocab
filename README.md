@@ -1443,3 +1443,4 @@
 - pitcher(n.) = เหยือก
 - appetizer(n.) = ของว่าง(อาหารเรียกน้ำย่อย)
 - weakness(n.) = ความอ่อนแอ
+- It's going to be so much fun/It's gonna be so much fun = มันจะต้องสนุกมากแน่ๆ
