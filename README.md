@@ -495,7 +495,6 @@
 - form (v.) = สร้าง
 - mind (n.) = จิตใจ
 - ignore (v.) = ไม่สนใจ
-- introduce (v.) = แนะนำ
 - handle (v.) = จัดการ,รับมือ,จับ
 - handle (n.) = ที่จับ,ด้าม
 
@@ -1111,7 +1110,6 @@
 - shop (n.) = ร้านค้า
 - remind (v.) = เตือน(ความจำ)
 - social (a.) = ทางสังคม
-- recommend (v.) = แนะนำ(ว่าดี)
 - prison (n.) = คุก
 - politician (n.) = นักการเมือง
 - straight (a.) = ตรง,ซื่อตรง
@@ -1434,6 +1432,7 @@
 - Can I have (something) ? = ขอ (something) ได้มั้ย? (แบบสุภาพ)
 - pass(v.) = ส่ง,ผ่าน
 - pass me (something) = ส่ง something ให้ฉัน
+- recommend (v.) = แนะนำ(ว่าดี)
 - introduce(v.) = แนะนำ(ให้รู้จัก,ตัวเอง)
 - wait for me = รอฉัน
 - would love to + (something) = ชอบที่จะ (something)
