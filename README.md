@@ -1219,6 +1219,7 @@
 - indecisive (a.) = ลังเล,ไม่เด็ดขาด
 - drown (v.) = จมน้ำ
 - listen to (v.) = ฟัง
+- hear (v.) = ได้ยิน
 - held (v.) = จัดขึ้น
 - hold the line (v.) = ถือสายรอ
 - for a moment (v.) = ซักครู่
