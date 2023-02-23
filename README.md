@@ -1463,3 +1463,4 @@
 - journalist(n.) = นักข่าว
 - have in mind = มีในใจ,ตั้งใจ
 - phrase(n.) = วลี
+- What do you do? = คุณทำงานอะไร? (ย่อมาจาก `What do you do for a living?`)
