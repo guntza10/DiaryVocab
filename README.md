@@ -1460,3 +1460,5 @@
 - conduct(v.) = จัดการ,ทำ
 - ethics(n.) = จริยธรรม,จรรยาบรรณ
 - journalist(n.) = นักข่าว
+- have in mind = มีในใจ,ตั้งใจ
+- phrase(n.) = วลี
