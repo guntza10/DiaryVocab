@@ -1434,6 +1434,7 @@
 - pass me (something) = ส่ง something ให้ฉัน
 - recommend (v.) = แนะนำ(ว่าดี)
 - introduce(v.) = แนะนำ(ให้รู้จัก,ตัวเอง)
+- suggest(v.) = แนะนำ(เสนอ ชักชวน)
 - wait for me = รอฉัน
 - would love to + (something) = ชอบที่จะ (something)
 
