@@ -1465,6 +1465,8 @@
 - phrase(n.) = วลี
 - What do you do? = คุณทำงานอะไร? (ย่อมาจาก `What do you do for a living?`)
 - cheer (someone) up = ให้กำลังใจ
+- forgive(v.) = ให้อภัย
+- donate(v.) = บริจาค
 
 ### Do you mind vs Would you mind
 
@@ -1482,3 +1484,9 @@
    - No, plese do. (ไม่ค่ะ เชิญทำได้เลย /กรณีถามด้วย Do you mind)
 2. ตอบ no
    - I’m afraid.... (ฉันเกรงว่า....)
+
+## `Extra 14`
+
+- have for breakfast = กินเป็นอาหารเช้า
+- have for lunch = กินเป็นอาหารกลางวัน
+- have for dinner = กินเป็นอาหารเย็น
