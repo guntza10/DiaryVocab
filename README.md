@@ -415,7 +415,7 @@
 - comment (n.) = ความคิดเห็น
 - comment (v.) = แสดงความคิดเห็น,วิจารณ์
 - advice (n.) = คำแนะนำ
-- definitely (adv.) = อย่างแน่นอน
+- definitely (adv.) = แน่นอน
 - break (v.) = ทำลาย,แตก,หยุดพัก
 - however (adv.) = อย่างไรก็ตาม
 - impression (n.) = ความประทับใจ
