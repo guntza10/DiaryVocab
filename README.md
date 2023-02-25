@@ -1185,7 +1185,7 @@
 - similar (a.) = เหมือนกัน(คล้ายกัน)
 - sufficient (a.) = เพียงพอ
 - schedule (n.) = กำหนดการ
-- present (v.) = เสนอ,แสดง
+- present (v.) = เสนอ,นำเสนอ,แสดง
 - special (a.) = พิเศษ
 - wonderful (a.) = มหัศจรรย์,วิเศษ
 - hectic (a.) = วุ่นวาย
