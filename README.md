@@ -379,9 +379,9 @@
 
 ## `Day 26`
 
-- chap (n.) = รอยแตก,ผู้ชาย(ไม่เป็นทางการ)
+- chap (n.) = รอยแตก,เด็กชาย
 - chap (v.) = แตก
-- certain (a.) = แน่นอน
+- certain (a.) = แน่นอน,แน่ใจ
 - certain (pro.) = บาง
 - annual (a.) = ประจำปี
 - interview (n.) = การสัมภาษณ์
@@ -389,6 +389,7 @@
 - especially (adv.) = โดยเฉพาะ
 - increasingly (adv.) = เพิ่มมากขึ้น
 - likely (a.) = น่าจะเป็นไปได้
+- likely (adv.) = เป็นไปได้
 
 ## `Day 27`
 
