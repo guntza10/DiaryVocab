@@ -1510,3 +1510,4 @@
 - keep in mind = จำไว้ว่า
 - right next = ถัดไป
 - incredible(a.) = เหลือเชื่อ
+- wear(v.) = สวมใส่
