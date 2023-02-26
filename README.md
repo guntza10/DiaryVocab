@@ -1511,3 +1511,4 @@
 - right next = ถัดไป
 - incredible(a.) = เหลือเชื่อ
 - wear(v.) = สวมใส่
+- faint(a.,v.) = เป็นลม,หน้ามืด
