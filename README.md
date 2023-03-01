@@ -1542,13 +1542,6 @@ How about + S + V?
 
     - What about your school?
 ```
-- wear(v.) = สวมใส่
-- faint(a.,v.) = เป็นลม,หน้ามืด
-- brand(n.) = แบรนด์,ยี่ห้อ
-- go to sleep = ไปนอน(เข้านอน)
-- go to bed = ไปนอน(เข้านอน)
-- article(n.) = บทความ
-- nationality(n.) = สัญชาติ
 
 ## `Extra 16`
 
@@ -1557,3 +1550,10 @@ How about + S + V?
 - Hang on! = รอก่อน,แปบนะ,เดี๋ยวก่อน (wait!)
 - let's get going (let's go) = ไปกันเลย,ไปกันเถอะ
 - exhausted(a.) = เหนื่อย(มากกก)
+- wear(v.) = สวมใส่
+- faint(a.,v.) = เป็นลม,หน้ามืด
+- brand(n.) = แบรนด์,ยี่ห้อ
+- go to sleep = ไปนอน(เข้านอน)
+- go to bed = ไปนอน(เข้านอน)
+- article(n.) = บทความ
+- nationality(n.) = สัญชาติ
