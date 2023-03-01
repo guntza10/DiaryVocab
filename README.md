@@ -1029,6 +1029,7 @@
 ## `Day 68`
 
 - stuff (n.) = สิ่งของ
+- stuff (v.) = บีบอัด,ยัดใส้
 - suffer (v.) = ทุกข์ทรมาน
 - pretty (a.) = สวย
 - pretty (adv.) = ค่อนข้าง
@@ -1470,7 +1471,7 @@
 - forgive(v.) = ให้อภัย
 - donate(v.) = บริจาค
 
-### Do you mind vs Would you mind
+### `Do you mind vs Would you mind`
 
 - Do you mind + if + present? = คุณจะว่าอะไรมั้ย? ถ้า... (เป็นการขออนุญาติหรือรบกวนคนที่สนิทให้ทำอะไรซักอย่าง)
 - Do you mind + v.ing? = รบกวน คุณช่วย...ได้มั้ย? (เป็นการขออนุญาติหรือรบกวนคนที่สนิทให้ทำอะไรซักอย่าง)
@@ -1510,3 +1511,34 @@
 - keep in mind = จำไว้ว่า
 - right next = ถัดไป
 - incredible(a.) = เหลือเชื่อ
+- cuisine(n.) = อาหาร(ควิซีน)
+- full(a.) = เต็ม,สมบูรณ์,แน่น (ฟูวววว)
+- I'm stuffed./ I'm full. = ฉันอิ่มแล้ว
+- What about you?/How about you? = แล้วคุณล่ะ?(ปกติจะไม่ค่อยใช้คำถามนี้ขึ้นต้นบทสนทนา ต้องพูดเรื่องใดเรื่องหนึ่งมาก่อนแล้วค่อยใช้คำถามนี้ถาม)
+
+### `How about vs What about`
+
+1. How about...
+
+   - ใช้ในการ `ชักชวน` หรือ`เสนอแนะ` `ถามความเห็น`
+   - มักใช้กับประโยคที่มีความเป็นไปได้ ( Possibilities ) คาดหวังคำตอบว่าจะเป็นไปได้
+
+```
+How about + n.?
+- How about a movie? => ไปดูหนังกันซักเรื่องมั้ย?
+
+How about + v.ing?
+- How about doing some shopping? => ไปช็อปปิ้งกันหน่อยมั้ย?
+
+How about + S + V?
+- How about we clean the house? => เราทำความสะอาดบ้านกันดีมั้ย?
+```
+
+2. What about...
+   - ใช้ในการถามว่าสิ่งนั้น สิ่งนี้เป็นอย่างไร
+
+```
+    - What about your new job?
+
+    - What about your school?
+```
