@@ -403,11 +403,11 @@
 - south (n.) = ทิศใต้
 - appointment (n.) = การนัดหมาย,ตำแหน่ง
 - attitude (n.) = ทัศนคติ
-- concern (v.) = เกี่ยวข้องกับ,ทำให้กังวล
+- concern (v.) = เกี่ยวข้องกับ,กังวล
 - include (v.) = ประกอบด้วย,รวม
 - living (n.) = การดำรงชีวิต
 - living (a.) = มีชีวิตอยู่
-- highly (adv.) = อย่างมาก
+- highly (adv.) = อย่างสูง
 - impossible (a.) = เป็นไปไม่ได้
 - possible (a.) = เป็นไปได้
 
@@ -1171,7 +1171,7 @@
 - terribly (adv.) = อย่างน่ากลัว,สุดขีด
 - step (n.) = ขั้นตอน,ก้าว
 - right (a.) = ถูกต้อง,ทางขวา
-- subject (n.) = เรื่อง,ประเด็น
+- subject (n.) = เรื่อง,ประเด็น,วิชา
 - same (a.) = เหมือนกัน
 - replace (v.) = แทนที่
 - parliament (n.) = รัฐสภา
@@ -1462,7 +1462,7 @@
 ## `Extra 13`
 
 - conduct(v.) = จัดการ,ทำ
-- ethics(n.) = จริยธรรม,จรรยาบรรณ
+- ethics(n.) = จริยธรรม,จรรยาบรรณ (เอธิก)
 - journalist(n.) = นักข่าว
 - have in mind = มีในใจ,ตั้งใจ
 - phrase(n.) = วลี
@@ -1542,3 +1542,18 @@ How about + S + V?
 
     - What about your school?
 ```
+- wear(v.) = สวมใส่
+- faint(a.,v.) = เป็นลม,หน้ามืด
+- brand(n.) = แบรนด์,ยี่ห้อ
+- go to sleep = ไปนอน(เข้านอน)
+- go to bed = ไปนอน(เข้านอน)
+- article(n.) = บทความ
+- nationality(n.) = สัญชาติ
+
+## `Extra 16`
+
+- What time is it? = ตอนนี้กี่โมงแล้ว
+- in about (number) minutes = อีกประมาณ (number) นาที
+- Hang on! = รอก่อน,แปบนะ,เดี๋ยวก่อน (wait!)
+- let's get going (let's go) = ไปกันเลย,ไปกันเถอะ
+- exhausted(a.) = เหนื่อย(มากกก)
