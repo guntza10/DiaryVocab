@@ -1517,3 +1517,11 @@
 - go to bed = ไปนอน(เข้านอน)
 - article(n.) = บทความ
 - nationality(n.) = สัญชาติ
+
+## `Extra 16`
+
+- What time is it? = ตอนนี้กี่โมงแล้ว
+- in about (number) minutes = อีกประมาณ (number) นาที
+- Hang on! = รอก่อน,แปบนะ,เดี๋ยวก่อน (wait!)
+- let's get going (let's go) = ไปกันเลย,ไปกันเถอะ
+- exhausted(a.) = เหนื่อย(มากกก)
