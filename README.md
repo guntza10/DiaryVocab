@@ -403,11 +403,11 @@
 - south (n.) = ทิศใต้
 - appointment (n.) = การนัดหมาย,ตำแหน่ง
 - attitude (n.) = ทัศนคติ
-- concern (v.) = เกี่ยวข้องกับ,ทำให้กังวล
+- concern (v.) = เกี่ยวข้องกับ,กังวล
 - include (v.) = ประกอบด้วย,รวม
 - living (n.) = การดำรงชีวิต
 - living (a.) = มีชีวิตอยู่
-- highly (adv.) = อย่างมาก
+- highly (adv.) = อย่างสูง
 - impossible (a.) = เป็นไปไม่ได้
 - possible (a.) = เป็นไปได้
 
