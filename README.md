@@ -1570,7 +1570,7 @@ How about + S + V?
 
 ### `Conjunction(คำเชื่อม,สันธาน)`
 
-### `Coordinating Conjunction`
+### `Coordinating Conjunction(Coordinators)`
 
 - คือคำเชื่อมพวก fanboys
 - เชื่อมสิ่งที่คุณค่าทางไวยากรณ์เท่ากัน เช่น N-N, Adj-Adj, sentence-sentence
