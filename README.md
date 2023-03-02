@@ -1495,7 +1495,7 @@
 - have for lunch = กินเป็นอาหารกลางวัน
 - have for dinner = กินเป็นอาหารเย็น
 - weekend(n.) = สุดสัปดาห์,วันหยุดสุดสัปดาห์
-- demonstrate(n.) = สาธิต,แสดงให้ดู
+- demonstrate(v.) = สาธิต,แสดงให้ดู
 - back up(v.) = สำรองข้อมูล
 - complete(a.) = สมบูรณ์
 - complete(v.) = กรอก(เติมให้เต็ม)
