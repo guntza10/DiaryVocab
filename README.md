@@ -1565,3 +1565,32 @@ How about + S + V?
 - but so are you. (so + hv + s) = คุณก็ด้วยเหมือนกัน (เป็นประโยคคล้อยตามกับประโยคก่อนหน้า)
 - I've got to get going (I have to go) = ฉันต้องไปแล้ว
 - It can't be that important = มันคงไม่สําคัญขนาดนั้นหรอก
+
+## `Extra 18`
+
+### `Conjunction(คำเชื่อม,สันธาน)`
+
+### `Coordinating Conjunction`
+
+- คือคำเชื่อมพวก fanboys
+- เชื่อมสิ่งที่คุณค่าทางไวยากรณ์เท่ากัน เช่น N-N, Adj-Adj, sentence-sentence
+- อยู่ตรงกลาง มี comma
+- อยู่ตรงกลาง ขึ้นประโยคใหม่
+
+1. `for = เพราะ` (ปัจจุบันไม่นิยมใช้ในความหมายนี้แล้ว)
+
+2. `and = และ`
+3. `nor = ก็ไม่เหมือนกัน` (เชื่อมประโยค โดยที่ประโยคข้างหน้าต้องเป็นปฏิเสธ)
+   - `nor + hv + s` (hv ขึ้นอยู่กับว่าประโยคข้างหน้า Hv เป็นอะไร)
+   - You don't like her,nor do I.
+   - You haven't read it, nor have I.
+   - You haven't read it, nor has he.
+   - He isn't a teacher, nor am I.
+4. `but = แต่`
+5. `or = หรือ`
+6. `yet = แต่` (เน้นขัดแย้งมากกว่า but)
+7. `so = ดังนั้น`
+
+### `Subordinating Conjunction`
+
+### `Correlative Conjunction`
