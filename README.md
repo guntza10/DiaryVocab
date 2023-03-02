@@ -1558,3 +1558,10 @@ How about + S + V?
 - go to bed = ไปนอน(เข้านอน)
 - article(n.) = บทความ
 - nationality(n.) = สัญชาติ
+
+## `Extra 17`
+
+- keep popping up = โผล่มา
+- but so are you. (so + hv + s) = คุณก็ด้วยเหมือนกัน (เป็นประโยคคล้อยตามกับประโยคก่อนหน้า)
+- I've got to get going (I have to go) = ฉันต้องไปแล้ว
+- It can't be that important = มันคงไม่สําคัญขนาดนั้นหรอก
