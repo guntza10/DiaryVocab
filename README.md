@@ -1565,6 +1565,7 @@ How about + S + V?
 - but so are you. (so + hv + s) = คุณก็ด้วยเหมือนกัน (เป็นประโยคคล้อยตามกับประโยคก่อนหน้า)
 - I've got to get going (I have to go) = ฉันต้องไปแล้ว
 - It can't be that important = มันคงไม่สําคัญขนาดนั้นหรอก
+- once(adv.) = ครั้งหนึ่ง
 
 ## `Extra 18`
 
@@ -1591,6 +1592,162 @@ How about + S + V?
 6. `yet = แต่` (เน้นขัดแย้งมากกว่า but)
 7. `so = ดังนั้น`
 
-### `Subordinating Conjunction`
+### `Subordinating Conjunction(Subordinators)`
+
+- เชื่อม`ประโยคหลัก`กับ`ประโยครอง `ไม่เหมือน Coordinators
+- ไม่ต้องมี comma
+- Subordinators ต้องอยู่หน้าประโยครองเสมอ
+- ถ้าเอา `Subordinate Clause` ขึ้นหน้าต้องมี comma ขั้นกับประโยคหลักด้วย
+
+1. `แม้ว่า`
+
+- although
+- though (สามารถห้อยท้ายประโยคได้ จะมีความหมายว่า `แต่`)
+- even though
+
+2. `เพราะ`
+
+- because (เน้นสาเหตุ)
+- since (เน้นผลลัพธ์) = เนื่องจาก
+- as (เน้นผลลัพธ์) = เนื่องจาก
+
+`Note: `
+
+```
+- because + ประโยค
+- because of + n.
+```
+
+3. `ลำดับเหตุการณ์`
+
+- once = ทันทีที่
+- when = ตอนที่,เมื่อ
+- while = ในขณะที่
+- until = จนกว่า
+- after = หลังจาก
+- before = ก่อน
+- since = ตั้งแต่
+
+4. `เพื่อที่จะ`
+
+- so
+- so that
+- in order that
+
+`Note: `
+
+```
+so(coordinators) = ดังนั้น(ผลลัพธ์ที่เกิดขึ้นจริง)
+so(subordinators) = เพื่อที่จะ(ผลลัพธ์ที่ตั้งใจ)
+```
+
+5. `ถ้า(if)`
+
+   1. zero-condition
+
+   - ความจริงเสมอในปัจจุบันและอดีต
+
+   ```
+   If + s + present(v.1), s + present(v.1) (ปัจจุบัน)
+
+   If + s + past(v.2), s + past(v.2) (อดีต)
+   ```
+
+   - คำสั่ง
+
+   ```
+   If + s + present(v.1), v.inf
+   ```
+
+   `Note:` zero-condition ใช้ when แทน if ได้
+
+   2. first-condition
+
+   - เป็นไปได้ในปัจจุบัน (อาจจะเกิดหรือไม่เกิดขึ้นก็ได้)
+
+   ```
+   If + s + present(v.1), s + will + v.inf
+   ```
+
+   3. second-condition
+
+   - เรื่องสมมติในปัจจุบัน
+
+   ```
+   If + s + past(v.2), s + would + v.inf
+   ```
+
+   `Note: ` v.to be ปกติใช้ was,were แต่ second-condition `จะต้องใช้ were เท่านั้น` ไม่ว่าประธานจะเป็นเอกพจน์หรือพหูพจน์
+
+   4. third-condition
+
+   - เรื่องสมมติในอดีต
+
+   ```
+   If + s + past perfect(had + v.3), s + would + have + v.3
+   ```
+
+6. `เหตุการณ์ที่ตรงข้ามกับความจริง (Unreal tense)`
+
+   1. Wish/If only(ถ้าเพียงแค่...) = หวัง(ในสิ่งที่เป็นไปไม่ได้)
+
+      - หวังเกี่ยวกับเรื่องในปัจจุบัน (ถอย tense => present->past)
+        ```
+        - I wish you were here.
+        - If only you were here.
+        ```
+      - หวังเกี่ยวกับเรื่องในอดีต (ถอย tense => past->past perfect)
+        ```
+        - I wish you had come here last night.
+        - If only you had come here last night.
+        ```
+      - หวังเกี่ยวกับเรื่องในอนาคต (ถอย tense => future (will + v.inf) -> would + v.inf)
+        ```
+        - I wish you would come here tomorrow.
+        - If only you would come here tomorrow.
+        ```
+
+   2. As if/As though = ราวกับว่า
+
+      - ประโยคหลักเป็น tense ปกติ
+      - ประโยครองมี 2 กรณี
+
+      ```
+      1.ณ ตอนที่รู้สึก
+      - tense ปกติ(present) -> unreal tense (past)
+
+      2.ก่อนหน้านี้
+      - tense ปกติ(past) -> unreal tense (past perfect)
+      ```
+
+   3. It's time = ได้เวลาแล้ว
+
+      - tense ปกติ (present) -> unreal tense (past)
+      - ใช้ในแบบอื่นๆ
+
+      ```
+      - It's time to + v.inf (ตัดประธานออก)
+      - It's time to + n.
+      ```
+
+7. `เพิ่มเติม`
+
+- provided (that) = ถ้า (ทางการกว่า if)
+- as long as/ so long as = ตราบใดที่
+- unless = นอกเสียจาก
+- If possible = ถ้าเป็นไปได้
+- If necessary = ถ้าจำเป็น
+- If so = ถ้าเป็นอย่างนั้น
+- If not = ถ้าไม่ใช่อย่างนั้น
+- What if = อะไรจะเกิดขึ้นถ้า
+- even if = ถึงแม้...หรือไม่(แม้ว่า)
+- only if = ก็ต่อเมื่อ
+- if only = หวังว่า
 
 ### `Correlative Conjunction`
+
+- both `A` and `B` = ทั้ง `A` และ `B`
+- not only `A` but also `B` = ไม่เพียงแต่ `A` แต่ยัง `B` ด้วย
+- not `A` but `B` = ไม่ใช่ `A` แต่ `B`
+- either `A` or `B` = ไม่ `A` ก็ `B`(อย่างใดอย่างหนึ่ง)
+- neither `A` nor `B` = ไม่ทั้ง `A` และ `B`(ไม่ทั้ง2อย่าง) (ไม่ต้องทำเป็นปฏิเสธ neither...nor เป็นอยู่แล้ว)
