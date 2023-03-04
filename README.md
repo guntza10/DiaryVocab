@@ -440,14 +440,15 @@
 
 ## `Day 30`
 
-- also (adv.) = ด้วย,เช่นเดียวกัน
+- also (adv.) = ด้วย,เหมือนกัน
 - attorney (n.) = ทนาย,อัยการ
 - dig (v.) = ขุด
-- element (n.) = ธาตุ,ส่วนประกอบ
-- certainly (adv.) = อย่างแน่นอน
+- element (n.) = ธาตุ,องค์ประกอบ
+- certainly (adv.,interjections) = แน่นอน (`Of course!`)
 - broad (a.) = กว้าง
 - excuse (v.) = ขอโทษ,แก้ตัว
-- hard (a.) = ยาก,แข็ง
+- excuse (n.) = คำขอโทษ,คำแก้ตัว(ข้ออ้าง)
+- hard (a.) = ยาก,แข็ง,หนัก
 - natural (a.) = เป็นธรรมชาติ,ธรรมดา
 
 ## `Day 31`
