@@ -1454,7 +1454,7 @@
 - weakness(n.) = ความอ่อนแอ
 - It's going to be so much fun/It's gonna be so much fun = มันจะต้องสนุกมากแน่ๆ
 - What can I get for you? = จะรับอะไรดี?/มีอะไรให้ช่วยมั้ยครับ? (พนักงานต้อนรับ/เสิร์ฟมักจะถาม)
-- squash(n.) = ฟักทอง
+- squash(n.) = ฟักทอง (สควอช)
 - You know what? = คุณรู้อะไรไหม?, เอางี้ดีกว่า
 - coordinate(v.) = ประสานงาน
 - coordinate(a.) = เท่ากัน,ขนานกัน,ระดับเดียวกัน
