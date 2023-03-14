@@ -523,7 +523,7 @@
 
 ## `Day 35`
 
-- describe (v.) = อธิบาย
+- describe (v.) = อธิบาย (เดสไคร์บ)
 - collect (v.) = เก็บ,สะสม
 - arrangement (n.) = การจัดเตรียม
 - economy (n.) = เศรษฐกิจ,การประหยัด
