@@ -227,6 +227,7 @@
 - usually (adv.) = มักจะ,โดยปกติ (80%)
 - often (adv.) = บ่อยๆ,บ่อยครั้ง (60%)
 - sometimes (adv.) = บางครั้ง (40%)
+- occasionally (adv.) = เป็นครั้งคราว
 - seldom (adv.) = ไม่ค่อย (30%)
 - rarely (adv.) = นานๆ ครั้ง (20%)
 - hardly (adv.) = แทบจะไม่ (10%)
@@ -526,13 +527,12 @@
 - collect (v.) = เก็บ,สะสม
 - arrangement (n.) = การจัดเตรียม
 - economy (n.) = เศรษฐกิจ,การประหยัด
-- comfortable (a.) = สะดวกสบาย
+- comfortable (a.) = สะดวกสบาย (คอมฟ์เทเบิล)
 - dear (n.) = ที่รัก
 - dear (a.) = แพง,เป็นที่รัก
 - fairly (adv.) = อย่างยุติธรรม
 - marriage (n.) = การแต่งงาน,พิธีแต่งงาน
 - memory (n.) = หน่วยความจำ,ความทรงจำ
-- occasionally (adv.) = บางครั้ง
 - nod (v.) = พยักหน้า,สัปหงก
 
 ## `Day 36`
