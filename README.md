@@ -556,15 +556,15 @@
 
 - nearly (adv.) = เกือบ
 - ordinary (a.) = ปกติ,ธรรมดา
-- only (a.) = เท่านั้น
+- only (a.,adv.) = เท่านั้น,เดี่ยว
 - final (a.) = สุดท้าย
 - final (n.) = ตอนจบ
-- eventually (adv.) = ในที่สุด
+- eventually (adv.) = ในท้ายที่สุด
 - less (adv.) = น้อยกว่า
 - medicine (n.) = ยา,แพทยศาสตร์
 - late (a.) = สาย,ช้า,ดึก
 - live (v.) = อยู่อาศัย,มีชีวิตอยู่
-- live (a.,adv.) = ถ่ายทอดสด
+- live (a.,adv.) = ถ่ายทอดสด,มีชีวิต
 
 ## `Day 38`
 
