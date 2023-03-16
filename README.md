@@ -334,7 +334,6 @@
 ## `Day 23`
 
 - difference (n.) = ความแตกต่าง
-- difference (v.) = ทำให้แตกต่าง
 - different (a.) = แตกต่าง
 - alternative (a.) = ซึ่งเลือกได้
 - alternative (n.) = ทางเลือก
