@@ -1449,7 +1449,7 @@
 - recommend (v.) = แนะนำ(ว่าดี)
 - introduce(v.) = แนะนำ(ให้รู้จัก,ตัวเอง)
 - suggest(v.) = แนะนำ(เสนอ ชักชวน)
-- wait for me = รอฉัน
+- wait for (someone) = รอ(someone)
 - would love to + (something) = ชอบที่จะ (something)
 
 ## `Extra 12`
