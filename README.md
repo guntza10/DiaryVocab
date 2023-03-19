@@ -595,7 +595,7 @@
 - disgusting (a.) = น่ารังเกียจ,น่าขยะแขยง
 - divide (v.) = แบ่ง,หาร
 - nowadays (adv.) = ทุกวันนี้
-- independent (a.) = อิสระ
+- independent (a.) = เป็นอิสระ
 - most (a.,adv.) = ที่สุด,มากที่สุด,ส่วนมาก
 - honestly (adv.) = อย่างจริงใจ(เอาตรงๆนะ,เอาจริงๆนะ)
 
