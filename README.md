@@ -421,7 +421,7 @@
 - comment (n.) = ความคิดเห็น
 - comment (v.) = แสดงความคิดเห็น,วิจารณ์
 - advice (n.) = คำแนะนำ
-- definitely (adv.) = แน่นอน
+- definitely (adv.) = แน่นอน (เดฟฟินิทลี่)
 - break (v.) = ทำลาย,แตก,หยุดพัก
 - however (adv.) = อย่างไรก็ตาม
 - however (conj.) = แต่ว่า
@@ -617,7 +617,7 @@
 - director (n.) = ผู้กำกับ,ผู้อำนวยการ
 - alarm (v.) = ปลุก,เตือน
 - alarm (n.) = สัญญาณเตือน,เสียงปลุก
-- against (prep.) = ต่อต้าน(สู้),ขัดต่อ
+- against (prep.) = ต่อต้าน,สู้กับ
 - attempt (v.) = พยายาม
 - attempt (n.) = ความพยายาม
 - cabinet (n.) = คณะรัฐมนตรี,ตู้/ชั้นวางของ
@@ -628,7 +628,7 @@
 - object (v.) = คัดค้าน
 - grab (v.) = คว้า,จับ
 - formal (a.) = เป็นทางการ
-- entirely (adv.) = โดยสิ้นเชิง
+- entirely (adv.) = โดยสิ้นเชิง (เอนไทเออร์รี่)
 - obvious (a.) = ชัดเจน
 - favour (n.) = ความชอบ
 - favour (v.) = ชอบ
