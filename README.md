@@ -1252,6 +1252,7 @@
 - go home (v.) = กลับบ้าน
 - be back (v.) = กลับมา
 - be there (v.) = ไปถึงที่นั่น
+- get there (v.) = ไปถึงที่นั่น
 - let you know (v.) = บอกให้คุณรู้
 - in a minute = ในไม่ช้า,อีกแปบเดียว
 
