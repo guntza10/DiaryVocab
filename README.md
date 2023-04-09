@@ -446,7 +446,7 @@
 - attorney (n.) = ทนาย,อัยการ
 - dig (v.) = ขุด
 - element (n.) = ธาตุ,องค์ประกอบ
-- certainly (adv.,interjections) = แน่นอน (`Of course!`)
+- certainly (adv.,interjections) = แน่นอน (`Of course!`) (เซิร์ทเอนลี่)
 - broad (a.) = กว้าง
 - excuse (v.) = ขอโทษ,แก้ตัว
 - excuse (n.) = คำขอโทษ,คำแก้ตัว(ข้ออ้าง)
