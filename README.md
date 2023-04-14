@@ -2145,3 +2145,7 @@ so(subordinators) = เพื่อที่จะ(ผลลัพธ์ที�
 - imply(v.) = หมายถึง,หมายความว่า
 - would be(v.) = อยากจะเป็น
 - it would be worth it = มันคุ้มค่า
+- whether(conj.) = ว่า
+- whether(prep.) = หรือว่า
+- whether...or... = ว่า...หรือ... ("whether" is used to introduce two alternative options or choices, indicating that the speaker is uncertain about which option to choose.)
+- indicate(v.) = ระบุ,แสดง
