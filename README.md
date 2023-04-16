@@ -513,7 +513,7 @@
 ## `Day 34`
 
 - circumstance (n.) = สถานการณ์
-- apparently (adv.) = ชัดเจน,เห็นได้ชัดว่า
+- apparently (adv.) = ชัดเจน,เห็นได้ชัดว่า (แอพแพเรนท์รี่)
 - dead (a.) = ตาย
 - dead (n.) = คนตาย
 - communication (n.) = การสื่อสาร
