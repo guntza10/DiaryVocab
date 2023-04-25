@@ -595,7 +595,7 @@
 ## `Day 40`
 
 - depend (v.) = ขึ้นอยู่กับ,พึ่งพา,อาศัย
-- disgusting (a.) = น่ารังเกียจ,น่าขยะแขยง
+- disgusting (a.) = น่าขยะแขยง
 - divide (v.) = แบ่ง,หาร
 - nowadays (adv.) = ทุกวันนี้
 - independent (a.) = เป็นอิสระ
