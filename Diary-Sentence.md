@@ -11,7 +11,9 @@
 - Where have you been? = ที่ผ่านมาไปอยู่ที่ไหนมา
 
 ### ขอบคุณ
-
+- Thanks.
+- Thank you.
+- Thank you so much.
 - That's very kind of you. = คุณใจดีมากเลย
 - I appreciate that.= ฉันรู้สึกซาบซึ้งใจ
 - I'm so thankful. / I'm so grateful. = ฉันรู้สึกขอบคุณเหลือเกิน
