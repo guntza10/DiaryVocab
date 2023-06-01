@@ -1,4 +1,4 @@
-## `Extra 34 (ประโยคที่ใช้บ่อยในชีวิตประจำวัน)`
+## `Sentence 1 (ประโยคที่ใช้บ่อยในชีวิตประจำวัน)`
 
 ### ทักทาย
 
@@ -84,7 +84,7 @@
 
 - that's right.
 
-## `Extra 44 (I will)`
+## `Sentence 2 (I will)`
 
 - I'll call you. = ชั้นจะโทรหาคุณ
 - I'll do it. = ชั้นจะทำมัน
@@ -93,7 +93,7 @@
 - I'll let you know. = ชั้นจะบอกให้คุณรู้
 - I'll go home soon. = ชั้นจะกลับบ้านเร็วๆนี้
 
-## `Extra 47 (I can,I have to,v.to be + v.ing)`
+## `Sentence 3 (I can,I have to,v.to be + v.ing)`
 
 - anxiety(n.) = ความวิตกกังวล (แอนไซตี้)
 - I can wait (for you) = ฉันรอ(คุณ)ได้
@@ -105,7 +105,7 @@
 - I'm getting dressed = ชั้นกำลังแต่งตัว
 - I'm calling you = ชั้นกำลังโทรหาคุณ
 
-## `Extra 48 (v.2,please...,let me...)`
+## `Sentence 4 (v.2,please...,let me...)`
 
 - I ate it all = ชั้นกินมันทั้งหมดเลย(กินไปแล้ว)
 - Please wait here for a moment/a minute = กรุณารอที่นี่ซักครู่
@@ -118,7 +118,7 @@
 - Let me walk you home = ให้ชั้นเดินไปส่งคุณที่บ้านนะ
 - Let me go = `ให้/ปล่อย` ชั้นไปเถอะ
 
-## `Extra 52 (Dont')`
+## `Sentence 5 (Dont')`
 
 - Don't let (`กรรม`) + v = อย่า`ปล่อย/ให้` (`กรรม`) + ทำ v นั้น
 - Don't cry = อย่าร้องไห้
@@ -128,7 +128,7 @@
 - Don't panic = อย่าตื่นตระหนก
 - Don't give up = อย่ายอมแพ้
 
-## `Extra 53 (I don't,I didn't)`
+## `Sentence 6 (I don't,I didn't)`
 
 - I don't know. = ชั้นไม่รู้
 - I don't care. = ชั้นไม่สนใจ
@@ -137,7 +137,7 @@
 - I don't think so. = ชั้นไม่คิดอย่างนั้น
 - I didn't mean to. = ชั้นไม่ได้ตั้งใจ(ทำอะไรซักอย่างลงไปแล้ว แต่ไม่ได้ตั้งใจจะทำมัน)
 
-## `Extra 54 (I won't)`
+## `Sentence 7 (I won't)`
 
 - I won't say anything. = ชั้นจะไม่พูดอะไรซักอย่าง
 - I won't go back. = ชั้นจะไม่กลับไป
@@ -149,7 +149,7 @@
 - He won't answer my call. = เขาไม่ยอมรับสายฉัน
 - I won't do it again. = ชั้นจะไม่ทำมันอีก
 
-## `Extra 57 (Can't = cannot)`
+## `Sentence 8 (Can't = cannot)`
 
 - I can't move on. = ชั้นไม่สามารถ`ก้าวต่อไปได้/ก้าวไปข้างหน้าได้`
 - I can't hear you. = ชั้นไม่ได้ยินคุณ
@@ -160,7 +160,7 @@
 - You can't please everyone(everybody). = คุณไม่สามารถทำให้ทุกคนพอใจได้
 - You can't force someone to love you. = คุณไม่สามารถบังคับให้ใครมารักคุณได้
 
-## `Extra 58` (Are you + adj.)
+## `Sentence 9` (Are you + adj.)
 
 - Are you okay? = คุณโอเคมั้ย
 - Are you ready? = คุณพร้อมมั้ย?
@@ -173,7 +173,7 @@
 - Are you serious? = คุณจริงจังรึเปล่า?
 - Are you tired? = คุณเหนื่อยมั้ย?
 
-## `Extra 59` (Are you + N.)
+## `Sentence 10` (Are you + N.)
 
 - Are you (`ชื่อคน`)? = คุณคือ (`ชื่อคน`) รึเปล่า?
 - Are you (`อาชีพ`)? = คุณเป็น (`อาชีพ`) รึเปล่า?
@@ -181,7 +181,7 @@
 - Is it + `N.` ? = มันคือ `N.` รึเปล่า?
 - Is that you? = นั่นคุณหรอ?
 
-## `Extra 60` (Are you + v.ing)
+## `Sentence 11` (Are you + v.ing)
 
 - Are you sleeping? = คุณนอนอยู่หรอ?(กำลังนอนอยู่?)
 - Are you using ... ? = คุณใช้ ... อยู่หรอ? (กำลังใช้)
@@ -191,7 +191,7 @@
 - Are you `kidding/joking` (me)? = คุณกำลังล้อ(ชั้น)เล่นอยู่หรอ?
 - Is it raining? = ฝนกำลังตกอยู่รึเปล่า?
 
-## `Extra 61` (Do you)
+## `Sentence 12` (Do you)
 
 - Do you love me? = คุณรักชั้นมั้ย?
 - Do you like him? = คุณชอบเขามั้ย?
@@ -200,7 +200,7 @@
 - Do you get it? = คุณเข้าใจมั้ย?
 - Do you want to sing a song? = คุณอยากร้องซักเพลงมั้ย?
 
-## `Extra 62` (Have you + v.3)
+## `Sentence 13` (Have you + v.3)
 
 - Have you made a decision?(yet) = คุณตัดสินใจรึยัง?
 - Have you heard about ...?(yet) = คุณได้ยินเกี่ยวกับ ... รึยัง?
@@ -211,7 +211,7 @@
 - Have you `done/finished` your work?(yet) = คุณทำงานของคุณเสร็จรึยัง?
 - Have you ever used this? = คุณเคยใช้สิ่งนี้มั้ย?
 
-## `Extra 65 (Can you)`
+## `Sentence 14 (Can you)`
 
 - Can you pass me + (something) ? [Can you pass something to me?] = คุณช่วยส่ง (something) ให้ชั้นได้มั้ย? (สามารถส่ง (something) ให้ชั้นได้มั้ย?)
 - Can you introduce yourself? = คุณช่วยแนะนำตัวเองได้มั้ย? (สามารถแนะนำตัวเองได้มั้ย?)
@@ -223,7 +223,7 @@
 - Can I have your email address? = ขออีเมล์ของคุณได้มั้ย
 - Can you make it? = คุณสามารถมาได้ตามนัดมั้ย?,คุณทำมันได้มั้ย?(สามารถทำมันได้มั้ย?)
 
-## `Extra 66 (What is/are)`
+## `Sentence 15 (What is/are)`
 
 - What is it? = มันคืออะไร?
 - What are these? = พวกนี้คืออะไร?
@@ -234,7 +234,7 @@
 - What is your problem? = ปัญหาของคุณคืออะไร? (ใช้กันเอง ไม่สุภาพ)
 - What is your purpose? = จุดประสงค์ของคุณคืออะไร?
 
-## `Extra 68 (What do/does)`
+## `Sentence 16 (What do/does)`
 
 - What do you like to do in your free time? = คุณชอบทำอะไรในเวลาว่างของคุณ?
 - What do you think about this? = คุณคิดยังไงกับสิ่งนี้?
@@ -246,7 +246,7 @@
 - What do you want to do tomorrow? = คุณต้องการทำอะไรพรุ่งนี้?
 - What do you do? = คุณทำงานอะไร?
 
-## `Extra 69 (What did)`
+## `Sentence 17 (What did)`
 
 - What did you do? = คุณทำอะไรลงไป?(ทำไปแล้ว)
 - What did you say?/What did you just say? = คุณพูดว่าอะไรนะ?(พูดไปแล้ว)
@@ -257,7 +257,7 @@
 - What did I tell you? = ชั้นบอกคุณว่าอะไรนะ?(บอกไปแล้ว)
 - What did they give to you? = พวกเขาให้อะไรกับคุณ?(ให้ไปแล้ว)
 
-## `Extra 72(What is/am/are + v.ing)`
+## `Sentence 18 (What is/am/are + v.ing)`
 
 - What are you doing here? = คุณกำลังทำอะไรอยู่ที่นี่?
 - What am I doing? = ชั้นกำลังทำอะไรอยู่เนี่ย?
@@ -266,7 +266,7 @@
 - What is he playing? = เขากำลังเล่นอะไร?
 - What are you planning to do? = คุณกำลังวางแผนที่จะทำอะไร?
 
-## `Extra 73(What is/am/are + gonna(going to) + v.inf)`
+## `Sentence 19 (What is/am/are + gonna(going to) + v.inf)`
 
 - What are you gonna do (`next`)? = คุณจะทำอะไรต่อไป(ตั้งใจจะทำอะไร)?
 - What am I gonna do (`next`)? = ชั้นจะทำอะไรต่อไป(ตั้งใจจะทำอะไร)?
@@ -275,7 +275,7 @@
 - What are you gonna say? = คุณจะพูดอะไร(ตั้งใจจะพูดอะไร)?
 - What are you gonna do about it? = คุณจะทำอะไรกับมัน(ตั้งใจจะทำอะไรกับมัน)?
 
-## `Extra 75(What คำนาม)`
+## `Sentence 20 (What คำนาม)`
 
 - What brand is it? = มันคือแบรนด์อะไร?
 - What color is this? = นี่คือสีอะไร?
@@ -291,7 +291,7 @@
 - What time did you go to `bed/sleep` last night? = คุณนอนกี่โมงเมื่อคืนนี้?
 - What (`N.`) are you gonna buy? = คุณจะซื้อ(`N.`)อะไร (ตั้งใจจะซื้อ)
 
-## `Extra 76(What kind of + do/does)`
+## `Sentence 21 (What kind of + do/does)`
 
 - What kind of songs do you like? = คุณชอบเพลง`แบบไหน/ประเภทไหน`?
 - What kind of movies do you want to watch? = คุณต้องการดูหนัง`แบบไหน/ประเภทไหน`?
@@ -300,7 +300,7 @@
 - What kind of foods do you like? = คุณชอบอาหาร`แบบไหน/ประเภทไหน`?
 - What kind of musics do you like? = คุณชอบดนตรี`แบบไหน/ประเภทไหน`?
 
-## `Extra 80 (Who is/are)`
+## `Sentence 22 (Who is/are)`
 
 - Who are you? = คุณคือใคร?
 - Who is he? = เขาคือใคร?
@@ -308,7 +308,7 @@
 - Who are they? = พวกเขาคือใคร?
 - Who is Sarah? = ซาร่าคือใคร?
 
-## `Extra 81 (Who do/does)`
+## `Sentence 23 (Who do/does)`
 
 - Who do you like? = คุณชอบใคร?
 - Who do you love? = คุณรักใคร?
@@ -317,7 +317,7 @@
 - Who do you live with? = คุณอาศัยอยู่กับใคร?
 - Who do you want to go to prom with? = คุณอยากไปงานพรอมกับใคร?
 
-## `Extra 83 (Who did)`
+## `Sentence 24 (Who did)`
 
 - Who did you talk to? = คุณคุยกับใครมา?
 - Who did you ask? = คุณถามใครมา?
@@ -329,7 +329,7 @@
 - Who did you vote for? = คุณโหวตให้ใครมา?
 - Who did you buy this for? = คุณซื้อนี่มาเพื่อใคร?
 
-## `Extra 84 (Who v.2)`
+## `Sentence 25 (Who v.2)`
 
 - Who did this to you? = ใครทำแบบนี้กับคุณ?
 - Who ate my cake? = ใครกินเค๊กของชั้น?
@@ -341,7 +341,7 @@
 - Who taught you? = ใครสอนคุณ?
 - Who came here this evening? = ใครมาที่นี่เมื่อเย็นนี้? (ฮู เคม เฮียร์ ดี้ส อี๊ฟนิ่ง)
 
-## `Extra 85 (Where is/are)`
+## `Sentence 26 (Where is/are)`
 
 - Where are you? = คุณอยู่ไหน?
 - Where are my shorts? = กางกางขาสั้นของชั้นอยู่ไหน?
@@ -355,7 +355,7 @@
 - Where is the toilet/restroom? = ห้องน้ำอยู่ไหน?
 - Where am I? = ชั้นอยู่ไหน?
 
-## `Extra 86 (Where do/does)`
+## `Sentence 27 (Where do/does)`
 
 - Where do you like to go? = คุณชอบไปที่ไหน?
 - Where do you want to `meet/see`? = คุณต้องการเจอกันที่ไหน?
@@ -364,7 +364,7 @@
 - Where do you come from? = คุณมาจากไหน?
 - Where are you from? = คุณมาจากไหน?
 
-## `Extra 88 (Where did)`
+## `Sentence 28 (Where did)`
 
 - Where did you go on holiday? = คุณไปไหนมาในวันหยุด?
 - Where did you get that hat? = คุณได้หมวกใบนั้นมาจากไหน?
@@ -377,7 +377,7 @@
 - Where did he lose his sunglasses? = เขาทำแว่นกันแดดของเขาหายที่ไหน?
 - Where did he find out his umbrella? = เขาหาร่มของเขาเจอที่ไหน?
 
-## `Extra 90 (When will)`
+## `Sentence 29 (When will)`
 
 - When will I `meet/see` you again? = ชั้นจะเจอคุณอีกครั้งเมื่อไร?
 - When will you arrive? = คุณจะมาถึงเมื่อไร?
@@ -390,7 +390,7 @@
 - When will you move out? = คุณจะย้ายออกเมื่อไร?
 - When will you realize (that) I love you? = คุณจะรู้เมื่อไรว่าชั้นรักคุณ?
 
-## `Extra 91 (When did)`
+## `Sentence 30 (When did)`
 
 - When did you buy that shirt? = คุณซื้อเสื้อเชิร์ตตัวนั้นเมื่อไร?
 - When did you graduate? = คุณเรียนจบมาเมื่อไร?
@@ -403,7 +403,7 @@
 - When did she say yes? = หล่อนตอบตกลงไปเมื่อไร?
 - When did it happen? = มันเกิดขึ้นเมื่อไร? (เกิดขึ้นไปแล้ว)
 
-## `Extra 92 (Why do/does)`
+## `Sentence 31 (Why do/does)`
 
 - Why do you like him? = ทำไมคุณชอบเขา?
 - Why do you want to join our company? = ทำไมคุณถึงอยากเข้าร่วมกับบริษัทของพวกเรา?
@@ -416,7 +416,7 @@
 - Why does he have 2 houses? = ทำไมเขาถึงมีบ้าน 2 หลัง?
 - Why does she hate dancing? = ทำไมหล่อนเกลียดการเต้น?
 
-## `Extra 93 (Why did)`
+## `Sentence 32 (Why did)`
 
 - Why did you choose to `go/leave`? = ทำไมคุณถึงเลือกที่จะไป?
 - Why did you leave me? = ทำไมคุณถึง`ทิ้งชั้น/จากชั้นไป`?
@@ -429,7 +429,7 @@
 - Why did you lie to me? = ทำไมคุณถึงโกหกชั้น?
 - Why did you disappear last night? = ทำไมคุณถึงหายไปเมื่อคืน?
 
-## `Extra 94 (Why don't/doesn't)`
+## `Sentence 33 (Why don't/doesn't)`
 
 - Why don't you come to my `house/home`? = ทำไมคุณไม่มาที่บ้านชั้นล่ะ?
 - Why don't you `take a rest/get some rest`? = ทำไมคุณไม่พักซักหน่อยล่ะ?
@@ -442,7 +442,7 @@
 - Why don't you spend more time with John? = ทำไมคุณไม่ใช้เวลากับจอห์นให้มากกว่าขึ้นล่ะ?
 - Why don't you exercise more often? = ทำไมคุณไม่ออกกำลังกายให้บ่อยขึ้นล่ะ?
 
-## `Extra 95 (How is/are(was/were))`
+## `Sentence 34 (How is/are(was/were))`
 
 - How are you? = คุณเป็นยังไงบ้าง?
 - How is he? = เขาเป็นยังไงบ้าง?
@@ -453,7 +453,7 @@
 - How was your day? = วันนี้เป็นยังไงบ้าง? (ถามถึงวันนี้ทั้งวันที่ผ่านมา)
 - How was your `holiday/weekend`? = วันหยุดเป็นยังไงบ้าง (ถามถึงวันหยุดที่ผ่านมา)
 
-## `Extra 96 (How can)`
+## `Sentence 35 (How can)`
 
 - How can I help you? = ชั้นจะช่วยคุณได้ยังไงบ้าง?
 - How can I pay? = ชั้นจะจ่ายยังไงได้บ้าง?
@@ -466,7 +466,7 @@
 - How can I become a superstar? = ชั้นจะสามารถกลายเป็นซูเปอร์สตาร์ได้ยังไง?
 - How can I pretend to be happy? = ชั้นจะสามารถแสร้งทำว่ามีความสุขได้ยังไง?
 
-## `Extra 97 (How adj)`
+## `Sentence 36 (How adj)`
 
 - How much (`is it`)? = มันราคาเท่าไร?
 - How far is it? = มันอยู่ไกลแค่ไหน?
