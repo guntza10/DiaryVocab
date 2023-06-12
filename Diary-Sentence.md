@@ -11,6 +11,7 @@
 - Where have you been? = ที่ผ่านมาไปอยู่ที่ไหนมา
 
 ### ขอบคุณ
+
 - Thanks.
 - Thank you.
 - Thank you so much.
@@ -193,7 +194,7 @@
 - Are you `kidding/joking` (me)? = คุณกำลังล้อ(ชั้น)เล่นอยู่หรอ?
 - Is it raining? = ฝนกำลังตกอยู่รึเปล่า?
 
-## `Sentence 12` (Do you)
+## `Sentence 12` (Do you/Does + s)
 
 - Do you love me? = คุณรักชั้นมั้ย?
 - Do you like him? = คุณชอบเขามั้ย?
