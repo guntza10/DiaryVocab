@@ -65,8 +65,8 @@
 ## `Day 6`
 
 - define (v.) = กำหนด,นิยาม
-- downstairs (adv.) = ข้างล่าง
-- downstairs (n.) = ชั้นล่าง
+- downstairs (n.) = ชั้นล่าง,ข้างล่าง
+- upstairs (n.) = ชั้นบน,ข้างบน
 - brilliant (a.) = ฉลาดหลักแหลม,งดงาม
 - marvellous (a.) = มหัศจรรย์
 - limit (n.) = ขีดจำกัด,ขอบเขต
