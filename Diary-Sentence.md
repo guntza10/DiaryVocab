@@ -3,6 +3,7 @@
 ### ทักทาย
 
 - How are you? = คุณเป็นอย่างไร? (สบายดีมั้ย?)
+- How are you doing? = เป็นยังไงบ้าง?(สบายดีมั้ย?)
 - How are things? = เป็นยังไงบ้าง?
 - How have you been? = ที่ผ่านมาเป็นยังไงบ้าง?(ไม่เจอกันมาซักพัก)
 - How's it going? = เป็นยังไงบ้าง?
@@ -62,17 +63,18 @@
 ### สบายดี
 
 - I'm fine.
+- I'm (`really`) great
+- I'm (`really`) good.
 - I'm doing great./I'm doing well.
-- I'm (really) good.
 
 ### เยี่ยมเลย/ดีเลย
 
 - Great!
 - That's great.
+- That sounds great.
 - Sounds good.
 - Really well.(ดีมากๆ)
 - That sounds so nice.
-- That sounds great.
 - I'm so glad to hear it.
 
 ### ได้เลย/แน่นอน
