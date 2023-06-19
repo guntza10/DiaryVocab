@@ -96,11 +96,22 @@
 - I'll let you know. = ชั้นจะบอกให้คุณรู้
 - I'll go home soon. = ชั้นจะกลับบ้านเร็วๆนี้
 
-## `Sentence 3 (I can,I have to,v.to be + v.ing)`
+## `Sentence 3 (I can,I have to/has to,v.to be + v.ing)`
 
 - anxiety(n.) = ความวิตกกังวล (แอนไซตี้)
+- I can do it./You can do it.
+- You can talk to me.
+- I can help you.
+- I can speak English.
+- You can go now
+- She can live without you.
 - I can wait (for you) = ฉันรอ(คุณ)ได้
 - I can pick you up = ฉันไปรับคุณได้
+- I have to go now.
+- I have to tell you something.
+- You have to wash your hands.
+- You have to tell me.
+- She has to `leave/go out`.
 - You have to look at this = คุณต้องดูสิ่งนี้
 - You have to try this = คุณต้องลองสิ่งนี้
 - I'm making coffee = ชั้นกำลังทำกาแฟ
