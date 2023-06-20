@@ -72,6 +72,7 @@
 - Great!
 - That's great.
 - That sounds great.
+- That's wonderful.
 - Sounds good.
 - Really well.(ดีมากๆ)
 - That sounds so nice.
