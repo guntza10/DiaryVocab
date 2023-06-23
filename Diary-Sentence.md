@@ -90,6 +90,14 @@
 
 - that's right.
 
+### เข้าใจแล้ว/รู้เรื่องแล้ว
+
+- I understand.
+- I get it.
+- I see.
+- I know what you mean.
+- I've got it.
+
 ## `Sentence 2 (I will)`
 
 - I'll call you. = ชั้นจะโทรหาคุณ
