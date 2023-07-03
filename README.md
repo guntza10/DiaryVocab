@@ -1408,10 +1408,12 @@
 - lose your mind = เสียสติ
 - reservation(n.) = การจอง
 - would like('d like) = ต้องการ(สุภาพกว่า want)
+- would not like(wouldn't like) = ไม่ต้องการ(สุภาพกว่า don't want)
 - Would you like ... = คุณต้องการ...มั้ย?(สุภาพกว่า Do you want...?)
 - be + booked up = ถูกจองแล้ว
 - That's a shame = น่าเสียดายจัง
 - we're (แวร์)
+- I only have... = ชั้นมี`แค่/แต่` ...
 
 ## `Extra 9`
 
@@ -1583,11 +1585,16 @@
 
 ## `Extra 15`
 
+- I'm ready to go.
+- I think I'm ready to go.
+- I'll take the check now. = ชั้นขอบิลเลยครับ(จะชำระเงินตอนนี้)
+- Are you sure you wouldn't like one more glass of wine?
 - Can I get anything else for you? = จะรับอะไรเพิ่มมั้ย?(ชั้นสามารถเอาอะไรก็ตามมาให้คุณได้มั้ย?)
 - Could I have a check, please? = เก็บเงินด้วยครับ (`ใช้เรียกพนักงานเก็บเงิน`)
 - Check, please. = เก็บเงินด้วยครับ (`ใช้เรียกพนักงานเก็บเงิน`)
 - Bill, please. = เก็บเงินด้วยครับ (`ใช้เรียกพนักงานเก็บเงิน`)
 - keep in mind = จำไว้ว่า
+- please keep in mind that ...
 - right next = ถัดไป
 - incredible(a.) = เหลือเชื่อ
 - cuisine(n.) = อาหาร(ควิซีน)
