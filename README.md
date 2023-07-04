@@ -1389,6 +1389,7 @@
 - sailing(n.) = การล่องเรือ
 - be supposed to = ควร(ควรจะต้องทำ ถูกคาดหวังไว้ให้ทำ)
 - suppose(v.) = สมมติ,คิดว่า (สุภาพกว่า I think)
+- I suppose that's true. = ชั้นคิดว่ามันก็จริงนะ
 - What is it supposed to be like? = มันควรจะเป็นยังไง?
 - fiancée(n.) = คู่หมั้น (ฟีอ๊านเซ่)
 - all right (ย่อเป็นAlright) (a.) = โอเค,ใช้ได้เลย
