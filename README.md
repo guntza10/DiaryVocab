@@ -1635,6 +1635,7 @@ How about + S + V?
 - What time is it? = ตอนนี้กี่โมงแล้ว
 - in about (number) minutes = อีกประมาณ (number) นาที
 - Hang on! = รอก่อน,แปบนะ,เดี๋ยวก่อน (wait!)
+- Good thing you remembered. = ดีนะที่คุณจำได้
 - let's get going (let's go) = ไปกันเลย,ไปกันเถอะ
 - exhausted(a.) = เหนื่อย(มากกก) (เอ็ก ซอส ติด)
 - wear(v.) = สวมใส่
