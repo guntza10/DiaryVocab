@@ -86,6 +86,7 @@
 - We will
 - Exactly!
 - Definitely!
+- You got it!
 
 ### ถูกต้อง
 
