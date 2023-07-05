@@ -43,12 +43,13 @@
 
 ## `Day 4`
 
-- colleague (n.) = เพื่อนร่วมงาน
+- colleague (n.) = เพื่อนร่วมงาน (คอลลีกจ์)
 - directly (adv.) = โดยตรง
-- institution (n.) = สถาบัน,ธรรมเนียม
-- guarantee (v.) = รับประกัน
+- institution (n.) = สถาบัน
+- guarantee (v.) = รับประกัน (เก เรน ที)
 - excellent (a.) = ยอดเยี่ยม
 - mean (v.) = หมายความว่า(vt),ตั้งใจ(vi)
+- mean (a.) = เฉลี่ย,กลาง
 - lift (v.) = ยก
 - meal (n.) = มื้ออาหาร,อาหาร
 
