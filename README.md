@@ -1977,7 +1977,13 @@ so(subordinators) = เพื่อที่จะ(ผลลัพธ์ที�
 
 ## `Extra 23`
 
+- I still can't stop thinking about you.
+- I've been thinking.
+- How do you feel about going to dinner?
+- how about just drinks?
+- I do, actually./yes, I do.
 - You can't say no to that. = คุณปฏิเสธไม่ได้นะ
+- Is tomorrow good?
 - What time are you free? = คุณว่างกี่โมง
 - Tomorrow's fine. Around 4 = พรุ่งนี้โอเค ประมาณ 4 โมง
 - free(a.) = อิสระ,ว่าง
