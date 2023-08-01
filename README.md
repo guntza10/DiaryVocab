@@ -557,6 +557,7 @@
 - departments (n.) = หน่วยงาน
 - copy (n.) = สำเนา,ฉบับ
 - copy (v.) = คัดลอก
+- contribute (v.) = มีส่วนช่วย,สนับสนุน,อุดหนุน
 - contribution (n.) = ผลงาน,การบริจาค
 - conference (n.) = การประชุม
 - holder (n.) = เจ้าของ,ที่ยึด
