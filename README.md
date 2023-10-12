@@ -268,7 +268,7 @@
 - at this time (present continuous) = ตอนนี้
 - at the moment (present continuous) = ตอนนี้
 - right now (present continuous) = ตอนนี้
-- these days (present continuous) = วันนี้
+- these days (present continuous) = วันนี้,ในตอนนี้(ในปัจจุบัน)
 
 ## `Day 18`
 
