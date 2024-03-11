@@ -259,6 +259,7 @@
 - attractive (a.) = มีเสน่ห์
 - attract (v.) = ดึงดูด,จูงใจ
 - attraction (n.) = สถานที่ท่องเที่ยว,เสน่ห์
+- tourist attraction(n.) = สถานที่ท่องเที่ยว
 - definition (n.) = คำนิยาม,การกำหนด (เดฟฟินิชั่น)
 - immediately (adv.) = ทันที,กะทันหัน
 - hill (n.) = เนินเขา,เนิน
